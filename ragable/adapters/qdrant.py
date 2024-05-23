@@ -2,8 +2,9 @@ from django.conf import settings
 from qdrant_client import QdrantClient
 from qdrant_client.models import Distance, VectorParams, PointStruct
 from .openai import OpenAIAdapter
+from interfaces.vector_store_adapter import VectorStoreAdapter
 
-class QdrantAdapter:
+class QdrantAdapter(VectorStoreAdapter):
     store = None
     embedder = None
     namespace = None
@@ -14,11 +15,8 @@ class QdrantAdapter:
         self.embedder = embedder if embedder is not None else OpenAIAdapter()
         self.dsn = dsn if dsn is not None else "http://127.0.0.1:6333"
 
-        self.init_qdrant()
-
-    def init_qdrant(self):
-         self.store = QdrantClient(self.dsn)
-         if self.store.collection_exists(self.namespace) == False:
+        self.store = QdrantClient(self.dsn)
+        if self.store.collection_exists(self.namespace) == False:
             self.store.create_collection(
                 collection_name=self.namespace,
                 vectors_config=VectorParams(size=self.embedder.get_embedding_dimensions(), distance=Distance.COSINE),
