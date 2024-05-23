@@ -1,0 +1,8 @@
+langchain==0.2.2
+langchain-community==0.2.3
+langchain-openai==0.1.8
+openai==1.31.1
+pydantic==2.7.3
+qdrant-client==1.9.1
+requests==2.32.3
+pypdf2==3.0.1

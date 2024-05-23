@@ -1,7 +1,7 @@
 from openai import OpenAI
 import time
 
-class OpenAiAdapter:
+class OpenAIAdapter:
     client = None
     def build_openai_client(self):
         if not self.client:
@@ -27,7 +27,6 @@ class OpenAiAdapter:
 
                 return response.data[0].embedding
             except Exception as ex:
-                print(ex)
                 time.sleep(2)
                 retries += 1
 

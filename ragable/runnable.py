@@ -1,11 +1,14 @@
-from typing import Dict, TypedDict,Optional, Callable
-
-class Runnable(TypedDict):
-    instruction: str
-    name: str
-    func: Callable
-    params: Optional[Dict] = {}
-    ask_llm: Optional[bool] = False
+from typing import Dict,Optional, Callable
+from dataclasses import dataclass, field
+@dataclass
+class Runnable:
+    Instruction: str
+    Name: str
+    Func: Callable
+    Params: Dict = field(default_factory=dict)
+    AskLLM: Optional[bool] = False
+    AlwaysRun: Optional[bool] = False
+    Priority: Optional[int] = 0
 
 class IntentDeterminer():
     def get_intent_prompt(self, func_descritions, intents):
@@ -24,13 +27,11 @@ class IntentDeterminer():
         intentMappings = {}
 
         for runnable in runnables:
-            func_descritions += f"""**{runnable['name']}**: {runnable['instruction']}"""
-            intents += f"""- {runnable['name']}"""
-            intentMappings[runnable['name']] = runnable
+            func_descritions += f"""**{runnable.Name}**: {runnable.Instruction}"""
+            intents += f"""- {runnable.Name}"""
+            intentMappings[runnable.Name] = runnable
 
         prompt = self.get_intent_prompt(func_descritions, intents)
-        print(prompt)
-
         response = model.invoke([
             ("system", prompt),
             ("user", question),
