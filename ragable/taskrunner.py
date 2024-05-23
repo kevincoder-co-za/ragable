@@ -3,6 +3,7 @@ from ragable.runnable import Runnable, IntentDeterminer
 from typing import List, Optional
 from langchain_core.language_models.chat_models import BaseChatModel
 from langchain_openai import ChatOpenAI
+from adapters.qdrant import QdrantAdapter
 
 class TaskRunner:
     tasks: Optional[List] = []
@@ -12,6 +13,7 @@ class TaskRunner:
     question: Optional[str] = ""
     verbose: bool = False
     context_prompt_template: Optional[str]
+    vector_store : Optional[QdrantAdapter]
 
     def __init__(self, model, verbose=False, context_prompt_template=None):
         self.model = model
@@ -21,6 +23,9 @@ class TaskRunner:
             Do not provide information that is not included in the context data.
             If the answer is not in the context data, respond with "I don't know":
             <context> {context} </context>"""
+
+    def setup_vector_store(self, embedding_model=None, adapter=None):
+        self.vectore_store = None
 
     def add_message(self, message :str, type: str):
         self.messages.append((type, message))
