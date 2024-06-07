@@ -3,7 +3,8 @@ from typing import List, Optional
 from langchain_core.language_models.chat_models import BaseChatModel
 from langchain_openai import ChatOpenAI
 import logging
-class TaskRunner:
+
+class Agent:
     tasks: Optional[List] = []
     must_run: Optional[List] = []
     model: BaseChatModel
@@ -23,25 +24,13 @@ class TaskRunner:
         self.context_prompt_template = """Please use *only* the following context data when answering the user's question.
             Do not provide information that is not included in the context data.
             If the answer is not in the context data, respond with "I don't know":
-            <context> {context} </context>"""
+            <context>{context}</context>"""
 
     def add_message(self, message :str, type: str):
         self.messages.append((type, message))
 
-    def add_must_run_task(self, task: Runnable):
-        if task.Priority == 0:
-            self.must_run.append(task)
-        else:
-            self.must_run.insert(task.Priority, task)
-
-    def add_task(self, task : Runnable):
-        if task.AlwaysRun:
-            self.add_must_run_task(task)
-            return
-        self.tasks.append(task)
-
-        if self.verbose:
-            self.logger.info(f"Added runnable task: {task.Name}")
+    def add_tasks(self, tasks : List[Runnable]):
+        self.tasks += tasks
 
     def parse_messages(self, question, inputs):
         for (index, message) in enumerate(self.messages):
@@ -81,21 +70,12 @@ class TaskRunner:
     def invoke(self, question, inputs :dict = {}, ask_model=True):
         self.parse_messages(question, inputs)
         intent_result = ""
-
         if len(self.tasks):
             runnable = IntentDeterminer().get_intent(self.model, question, self.tasks)
             if self.verbose:
                 self.logger.info(f"Model has selected to execute: {runnable.Name}")
             if runnable:
                 intent_result = self.run_runnable_task(intent_result, runnable, question)
-
-        for runnable in self.must_run:
-            if self.verbose:
-                self.logger.info(f"Running: \": {runnable.Name}")
-            runnable.Params["question"] = question
-            runnable.Params["messages"] = self.messages
-            runnable.Params["last_response"] = intent_result
-            intent_result = self.run_runnable_task(intent_result, runnable, question)
 
         if self.verbose:
             self.logger.info(f"Final result after all runnables: {intent_result}")
@@ -115,6 +95,6 @@ class TaskRunner:
 
         return self.model.invoke(messages).content
 
-def get_openai_task_runner(model_name="gpt-3.5-turbo-0125", temperature=0, verbose=False):
+def get_openai_agent(model_name="gpt-3.5-turbo-0125", temperature=0, verbose=False):
      chatbot = ChatOpenAI(model_name=model_name, temperature=0)
-     return TaskRunner(chatbot, verbose)
+     return Agent(chatbot, verbose)

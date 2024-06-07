@@ -7,8 +7,6 @@ class Runnable:
     Func: Callable
     Params: Dict = field(default_factory=dict)
     AskLLM: Optional[bool] = False
-    AlwaysRun: Optional[bool] = False
-    Priority: Optional[int] = 0
 
 class IntentDeterminer():
     def get_intent_prompt(self, func_descritions, intents):
