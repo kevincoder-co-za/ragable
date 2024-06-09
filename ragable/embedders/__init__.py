@@ -13,10 +13,12 @@ import os
 import hashlib
 
 class StandardEmbedder:
-    chunk_size: int
-    chunk_overlap: int
-    logger :logging.Logger
-    store : VectorStoreAdapter
+    def __init__(self, store, chunk_size=1000, chunk_overlap=200, loglevel = logging.ERROR):
+        self.chunk_size = chunk_size
+        self.chunk_overlap = chunk_overlap
+        logging.basicConfig(level=loglevel, handlers=[logging.StreamHandler()])
+        self.store = store
+        self.logger = logging.getLogger(__name__)
 
     def extract_text_from_file(self, file_path):
         text_blob = ""
@@ -56,13 +58,6 @@ class StandardEmbedder:
             print(f"An error occurred: {ex}")
 
         return text_blob
-
-    def __init__(self, store, chunk_size=1000, chunk_overlap=200, loglevel = logging.ERROR):
-        self.chunk_size = chunk_size
-        self.chunk_overlap = chunk_overlap
-        logging.basicConfig(level=loglevel, handlers=[logging.StreamHandler()])
-        self.store = store
-        self.logger = logging.getLogger(__name__)
 
     def train_from_document(self, doc_path :str, doc_id=None):
         text_splitter = CharacterTextSplitter(

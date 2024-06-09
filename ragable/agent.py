@@ -5,22 +5,19 @@ from langchain_openai import ChatOpenAI
 import logging
 
 class Agent:
-    tasks: Optional[List] = []
-    must_run: Optional[List] = []
-    model: BaseChatModel
-    messages: Optional[List] = []
-    question: Optional[str] = ""
-    verbose: bool = False
-    context_prompt_template: Optional[str]
-    logger: None
-
     def __init__(self, model, verbose=False):
         self.model = model
         self.verbose = verbose
+        self.tasks = []
+        self.question = ""
+        self.messages = []
+
         if self.verbose:
             logging.basicConfig(level=logging.INFO, handlers=[logging.StreamHandler()])
-            self.logger = logging.getLogger(__name__)
+        else:
+            logging.basicConfig(level=logging.ERROR, handlers=[logging.StreamHandler()])
 
+        self.logger = logging.getLogger(__name__)
         self.context_prompt_template = """Please use *only* the following context data when answering the user's question.
             Do not provide information that is not included in the context data.
             If the answer is not in the context data, respond with "I don't know":
@@ -96,5 +93,5 @@ class Agent:
         return self.model.invoke(messages).content
 
 def get_openai_agent(model_name="gpt-3.5-turbo-0125", temperature=0, verbose=False):
-     chatbot = ChatOpenAI(model_name=model_name, temperature=0)
+     chatbot = ChatOpenAI(model_name=model_name, temperature=temperature)
      return Agent(chatbot, verbose)

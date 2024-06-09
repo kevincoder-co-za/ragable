@@ -2,21 +2,17 @@ from openai import OpenAI
 import time
 
 class OpenAIAdapter:
-    client = None
-    def build_openai_client(self):
-        if not self.client:
-            self.client = OpenAI()
-
     def __init__(self, model = "text-embedding-3-small"):
-        self.build_openai_client()
+        self.client = OpenAI(model)
         self.model = model
 
     def get_embedding_dimensions(self):
-        return 1536
+        if self.model in ("text-embedding-3-small", "text-embedding-ada-002"):
+            return 1536
+        elif self.model == "text-embedding-3-large":
+            return 3072
 
     def get_embeddings(self, sentence):
-        self.build_openai_client()
-
         retries = 0
         while retries <= 3:
             try:

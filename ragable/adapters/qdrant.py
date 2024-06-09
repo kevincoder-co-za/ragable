@@ -5,21 +5,15 @@ from ragable.adapters.interfaces.vector_store_adapter import VectorStoreAdapter
 from uuid import uuid4
 import logging
 class QdrantAdapter(VectorStoreAdapter):
-    store = None
-    embedder = None
-    namespace = None
-    dsn = None
-    logger :logging.Logger
-
-    def __init__(self, namespace, dsn=None, embedder=None, loglevel=logging.ERROR):
+    def __init__(self, namespace, dsn=None, embedder=None, api_key = None, loglevel=logging.ERROR):
         self.namespace = namespace
         self.embedder = embedder if embedder is not None else OpenAIAdapter()
         self.dsn = dsn if dsn is not None else "http://127.0.0.1:6333"
 
         logging.basicConfig(level=loglevel, handlers=[logging.StreamHandler()])
         self.logger = logging.getLogger(__name__)
+        self.store = QdrantClient(self.dsn, api_key=api_key)
 
-        self.store = QdrantClient(self.dsn)
         if self.store.collection_exists(self.namespace) == False:
             self.store.create_collection(
                 collection_name=self.namespace,
@@ -46,7 +40,7 @@ class QdrantAdapter(VectorStoreAdapter):
         except Exception as ex:
             self.logger.error("[Qdrant Adapter] Failed to store text embedding with error:", ex)
 
-    def find_documents(self, text, limit=10):
+    def find_documents(self, text, limit=20):
         results = []
         try:
             vector = self.embedder.get_embeddings(text)
@@ -63,7 +57,7 @@ class QdrantAdapter(VectorStoreAdapter):
 
         return results
 
-    def get_context_data(self, text, limit=10):
+    def get_context_data(self, text, limit=20):
         results = self.find_documents(text, limit)
         context = ""
 
