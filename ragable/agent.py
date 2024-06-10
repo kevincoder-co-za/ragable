@@ -1,7 +1,6 @@
 from ragable.runnable import Runnable, IntentDeterminer
-from typing import List, Optional
-from langchain_core.language_models.chat_models import BaseChatModel
-from langchain_openai import ChatOpenAI
+from ragable.adapters.openai import OpenAIAdapter
+from typing import List
 import logging
 
 class Agent:
@@ -60,7 +59,7 @@ class Agent:
 
             llm_response = self.model.invoke(messages)
             if llm_response:
-                intent_result = llm_response.content
+                intent_result = llm_response
 
         return intent_result
 
@@ -90,8 +89,8 @@ class Agent:
         if intent_response != "":
             messages.append(("system", self.context_prompt_template.replace("{context}", intent_response)))
 
-        return self.model.invoke(messages).content
+        return self.model.invoke(messages)
 
 def get_openai_agent(model_name="gpt-3.5-turbo-0125", temperature=0, verbose=False):
-     chatbot = ChatOpenAI(model_name=model_name, temperature=temperature)
+     chatbot = OpenAIAdapter()
      return Agent(chatbot, verbose)

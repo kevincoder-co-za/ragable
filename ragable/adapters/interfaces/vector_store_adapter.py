@@ -15,5 +15,5 @@ class VectorStoreAdapter(Protocol):
         raise NotImplementedError
 
     @abstractmethod
-    def get_context_data(self, text, limit=10, filters=None):
+    def get_context_data(self, text, limit=10, filters=None) ->str:
         raise NotImplementedError

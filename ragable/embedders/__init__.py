@@ -1,4 +1,3 @@
-from typing import List
 from PyPDF2 import PdfReader
 from docx import Document
 from pptx import Presentation
@@ -6,8 +5,6 @@ from odf.opendocument import load as load_od_docs
 from odf.text import P as odf_paragraph
 from odf import teletype
 from odf.draw import Frame
-from langchain.text_splitter import CharacterTextSplitter
-from ragable.adapters.interfaces.vector_store_adapter import VectorStoreAdapter
 import logging
 import os
 import hashlib
@@ -60,14 +57,6 @@ class StandardEmbedder:
         return text_blob
 
     def train_from_document(self, doc_path :str, doc_id=None):
-        text_splitter = CharacterTextSplitter(
-            separator="\n",
-            chunk_size=self.chunk_size,
-            chunk_overlap=self.chunk_overlap,
-            length_function=len,
-            is_separator_regex=False,
-        )
-
         text_blob = ""
         if doc_id is None:
             doc_id = hashlib.md5(doc_path.encode("utf-8")).hexdigest()
@@ -79,7 +68,7 @@ class StandardEmbedder:
             self.logger.warning(f"Failed to parse: {doc_path}. Error: ", ex)
 
         if text_blob != "":
-            for chunk in text_splitter.split_text(text_blob):
+            for chunk in self.chunk_text(text_blob):
                 self.store.add_document(text=chunk, idx=doc_id)
         else:
             self.logger.warning("All documents failed. Embedding data is empty.")
@@ -88,13 +77,21 @@ class StandardEmbedder:
         if doc_id is None:
             raise("The vector store needs a doc_id to identify this content. Please pass in 'doc_id', which can be an integer or uuid.")
 
-        text_splitter = CharacterTextSplitter(
-            separator="\n",
-            chunk_size=self.chunk_size,
-            chunk_overlap=self.chunk_overlap,
-            length_function=len,
-            is_separator_regex=False,
-        )
-
-        for chunk in text_splitter.split_text(text):
+        for chunk in  self.chunk_text(text):
             self.store.add_document(text=chunk, idx=doc_id)
+
+    def chunk_text(text, buffer_length=1500):
+        parts = text.split("\n")
+        buffer = ""
+        has_flushed = False
+
+        for p in parts:
+            if len(buffer) + len(p) >= buffer_length:
+                has_flushed = True
+                yield buffer.strip("\n")
+            if has_flushed:
+                has_flushed = False
+                buffer = ""
+            buffer += "\n" + p
+
+        yield buffer.strip("\n")
