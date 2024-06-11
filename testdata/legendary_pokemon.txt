@@ -1,0 +1,768 @@
+Legendary Pokémon (Japanese: 伝説のポケモン Legendary Pokémon) are a group of incredibly rare and often very powerful Pokémon. They are often featured prominently in the legends and myths of the Pokémon world, with some even going so far as to view them as deities.
+
+Mythical Pokémon are a related but separate group. Special Pokémon are a subcategory of Legendary Pokémon that are restricted or banned from certain official tournaments, battle facilities, and link battle formats. Most Special Pokémon are Legendary game mascots.
+
+No explicit criteria defines what makes a Pokémon a Legendary Pokémon. Instead, the only way to identify a Pokémon as belonging to this group is through statements from official media, such as the games or anime.
+
+
+News
+Bulbapedia
+Forums
+Discord
+More
+Editors
+Account
+Search Bulbapedia
+Bulbapedia is hosting a volunteer staff drive! Applications for Junior Administrator can be submitted here until June 16th.
+Check the Bulbagarden home page for up-to-date Pokémon news and discuss it on the forums or in the Bulbagarden Discord server.
+Legendary Pokémon is a featured article
+Legendary Pokémon
+From Bulbapedia, the community-driven Pokémon encyclopedia.
+Jump to navigationJump to search
+"Legendary" and "Legend" redirect here. For other uses, see Legendary (disambiguation).
+Smart Ribbon Master Sinnoh.png	This article is a featured article. This means that it has been identified as one of the best articles produced on Bulbapedia.
+
+Artwork depicting a variety of Legendary Pokémon
+Legendary Pokémon (Japanese: 伝説のポケモン Legendary Pokémon) are a group of incredibly rare and often very powerful Pokémon. They are often featured prominently in the legends and myths of the Pokémon world, with some even going so far as to view them as deities.
+
+Mythical Pokémon are a related but separate group. Special Pokémon are a subcategory of Legendary Pokémon that are restricted or banned from certain official tournaments, battle facilities, and link battle formats. Most Special Pokémon are Legendary game mascots.
+
+No explicit criteria defines what makes a Pokémon a Legendary Pokémon. Instead, the only way to identify a Pokémon as belonging to this group is through statements from official media, such as the games or anime.
+
+
+Contents
+1	Terminology
+2	Overview
+2.1	In the core series games
+2.1.1	Statistical average
+2.1.2	Multiple Legendary Pokémon
+2.2	In the spin-off games
+2.2.1	Trading Card Game series
+2.3	In the anime
+3	List of Legendary Pokémon
+3.1	Generation I
+3.1.1	Articuno, Zapdos, and Moltres
+3.1.2	Mewtwo
+3.2	Generation II
+3.2.1	Raikou, Entei, and Suicune
+3.2.2	Lugia and Ho-Oh
+3.3	Generation III
+3.3.1	Regirock, Regice, and Registeel
+3.3.2	Latios and Latias
+3.3.3	Kyogre, Groudon, and Rayquaza
+3.4	Generation IV
+3.4.1	Uxie, Mesprit, and Azelf
+3.4.2	Dialga, Palkia, and Giratina
+3.4.3	Cresselia
+3.4.4	Heatran
+3.4.5	Regigigas
+3.5	Generation V
+3.5.1	Cobalion, Terrakion, and Virizion
+3.5.2	Tornadus, Thundurus, and Landorus
+3.5.3	Reshiram, Zekrom, and Kyurem
+3.6	Generation VI
+3.6.1	Xerneas, Yveltal, and Zygarde
+3.7	Generation VII
+3.7.1	Type: Null and Silvally
+3.7.2	Tapu Koko, Tapu Lele, Tapu Bulu, and Tapu Fini
+3.7.3	Cosmog and Cosmoem
+3.7.4	Solgaleo, Lunala, and Necrozma
+3.8	Generation VIII
+3.8.1	Galarian Articuno, Zapdos, and Moltres
+3.8.2	Zacian and Zamazenta
+3.8.3	Eternatus
+3.8.4	Kubfu and Urshifu
+3.8.5	Regieleki and Regidrago
+3.8.6	Calyrex, Glastrier, and Spectrier
+3.8.7	Enamorus
+3.9	Generation IX
+3.9.1	Wo-Chien, Chien-Pao, Ting-Lu, and Chi-Yu
+3.9.2	Koraidon and Miraidon
+3.9.3	Okidogi, Munkidori, and Fezandipiti
+3.9.4	Ogerpon
+3.9.5	Terapagos
+4	Trivia
+5	In other languages
+6	References
+7	See also
+Terminology
+Main article: Terminology of Legendary and Mythical Pokémon
+Mythical Pokémon are a related but separate group of Pokémon, which are usually event-exclusive. In Western language media, Mythical Pokémon were considered to be Legendary Pokémon prior to Generation V; in Japanese and Korean media, the two groups have always been considered distinct.
+
+In some uncommon cases, the term "Legendary Pokémon" was still used referring to Mythical Pokémon even after the Generation V games, such as in a painting of Arceus in the Lilycove Museum from Pokémon Omega Ruby and Alpha Sapphire, as well as Mew and Shaymin's trophies in Super Smash Bros. for Nintendo 3DS/Wii U.
+
+Overview
+In the core series games
+
+Various Legendary Pokémon battling by Kazuma Koda
+Legendary Pokémon are usually encountered as interactable or roaming Pokémon. Starting in Platinum, Legendary Pokémon will reappear when the player defeats the Champion if the Pokémon fainted earlier.
+
+Legendary Pokémon are most commonly gender unknown, although many are not. In the core series games, no Legendary Pokémon can breed or hatch from an Egg. Legendary Pokémon usually cannot evolve, although Type: Null, Cosmog, Cosmoem, and Kubfu all can. Many Legendary Pokémon can change forms. Legendary Pokémon are often part of a group of Legendary Pokémon, most commonly a Legendary duo or trio.
+
+Legendary Pokémon typically appear near the end of the regional Pokédex, with Mythical Pokémon immediately after them.
+
+
+Statistical average
+High base stats are shared by most Legendary Pokémon, with them generally having a base stat total of at least 600. These averages consider alternate forms as separate Pokémon.
+
+Stat
+HP:	97.10	
+Attack:	112.73	
+Defense:	100.85	
+Sp.Atk:	115.76	
+Sp.Def:	105.46	
+Speed:	94.69	
+Total:	626.59	
+
+Multiple Legendary Pokémon
+Many Legendary Pokémon can be obtained at most once per save file (excluding Pokémon events); in order to obtain multiple, a player would need to trade Pokémon between games. However, in some cases, there are multiple Legendary Pokémon of the same species either found or mentioned in-game, even though they may not be available to the player.
+
+The existence of regional forms with the legendary birds Articuno, Zapdos, and Moltres implies that a trio separate from Kanto existed in an isolated peripheral population (in this case Galar) and hence formed a new species.
+In some cases, the Pokédex mentions multiple Legendary Pokémon of the same species.
+The Pokédex says about Latias: "They make a small herd of only several members."
+The Pokédex says about Entei: "It is said that one is born every time a new volcano appears."
+The Pokédex says about Cobalion: "From the moment it's born, this Pokémon radiates the air of a leader." implying its birth is a repetitive occurrence.
+The Pokédex says about Normal Forme Terapagos: "It’s thought that this Pokémon lived in ancient Paldea until it got caught in seismic shifts and went extinct."
+Heatran, Kubfu, Urshifu, and Terapagos are the only Legendary Pokémon that can be of either gender, which may imply the existence of at least two individuals of their species.
+In The Isle of Armor, the player receives a Kubfu, while Mustard also has one. Mustard's Kubfu will evolve into an Urshifu of the form corresponding to the tower not chosen by the player.
+In The Indigo Disk, the player finds a Terapagos in Area Zero Underdepths and even though Terapagos can be of either gender, the only obtainable one is a Hardy male and is said to be last of its kind, implying that in the past, female Terapagos existed, but are now extinct.
+In Pokémon Red and Blue and Pokémon FireRed and LeafGreen, the player can see a wild Articuno at the Route 15 gate to Fuchsia City through a pair of binoculars at any time, even after catching Articuno at the Seafoam Islands.
+In Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!, the legendary birds are rare spawns, which allows the player to encounter and catch multiple of each in a single save file.
+Because Type: Null and Silvally are synthetic species, it was possible for humans to create multiple individuals. Three were confirmed to have been created in Alola by the Aether Foundation: one is owned by Gladion, and another was given to Elio/Selene by Gladion. The whereabouts of the third Type: Null are unknown. A fourth individual was later created in Galar by Macro Cosmos using notes stolen from the Aether Foundation.
+Solgaleo and Lunala are capable of together creating a Cosmog supposedly as their unique way of breeding but it appears they're rarely seen in the same universe at the same time, making this a rare event. Three Cosmog were confirmed to exist, one stolen from Aether Paradise by Lillie, nicknamed Nebby, another one created by Nebby and a LunalaS/SolgaleoM found in another universe's Lake of the MooneS/Lake of the SunneM and one found by an old lady in Freezington in the Crown Tundra, nicknamed Fwoofy.
+In Pokémon Scarlet and Violet, Professor SadaS/Professor TuroV built a "time machine" and used it to bring two KoraidonS/MiraidonV to Area Zero. The first one is quirky and friendly and the second one is adamantS/modestV and territorial, leading them to become rivals.
+Most Legendary Pokémon can be encountered multiple times in Dynamax Adventures in the Crown Tundra. However, the player can only catch one of each.
+Legendary Pokémon that are eligible to do so may appear in Battle facilities and may be used by multiple Trainers, including the facilities' leaders. This can occur regardless of whether or not the player possesses any of these Pokémon.
+For instance, Palmer has Regigigas, Heatran, and Cresselia, which are also available to the player in the Sinnoh-based games.
+Sometimes, multiple Legendary Pokémon seem to be present by comparing multiple games in the timeline.
+For instance, Brandon has the three legendary birdsE, while these birds are also found as wild Pokémon in KantoFRLG. Three years later, they are still found as wild Pokémon in KantoHGSS as well as SinnohPt.
+
+In the spin-off games
+Trading Card Game series
+Main article: Legendary Cards
+In Pokémon Trading Card Game and Pokémon Trading Card Game 2: The Invasion of Team GR!, there are four Legendary Cards, which are central to the plot: Articuno, Zapdos, Moltres, and Dragonite. The latter is a pseudo-legendary Pokémon.
+
+In the anime
+Legendary Pokémon typically make their anime debut in a movie, rather than first appearing in a normal episode. Many are worshiped as gods by particular groups of people. In the anime, they are often only seen by special Trainers, usually Ash Ketchum and people who have a special connection to them. Ill-intentioned people often seek to possess them, due to their power and rarity. Sometimes, some Legendary Pokémon have stubborn behavior that they did not trust humans like Raikou.
+
+Trainers using Legendary and Mythical Pokémon that they have in Poké Balls, or even as a non-owned Pokémon, are not unheard of. Noland has befriended and fought official battles with an Articuno. Likewise, Brandon in the anime owned the three legendary giants in Poké Balls and trained them. Tobias was seen participating in the Lily of the Valley Conference with the Legendary Pokémon Latios. Another Trainer was seen entering the same tournament with a Heatran. A Nurse Joy who visited the Pewter Gym under assignment of the PIA kept a Latias in a Poké Ball. Gladion stole a Type: Null, which he managed to evolve into a Silvally. Goh has also succeeded in catching several Legendary Pokémon, including Eternatus, a Suicune, and a Regieleki. Project Mew members Quillon and Danika both own an Urshifu each, and the former has also caught the three original legendary giants for research purposes. Gary was seen catching a Regidrago as a part of a Project Mew mission, while Horace was later revealed to have caught a Virizion during his own simultaneous mission. The ancient adventurer Lucius used to travel with a Shiny Rayquaza and an Entei.
+
+In the anime, there are some cases in which Legendary Pokémon are implied to breed in the wild, as seen with Lugia, Latios, and Latias.
+
+List of Legendary Pokémon
+Of the 1025 Pokémon species, 71 are Legendary Pokémon (6.93%). Each released generation has introduced at least three Legendary Pokémon.
+
+201
+Spoiler warning: this article may contain major plot or ending details.
+201
+Generation I
+Four Legendary Pokémon were introduced in Generation I, with one trio and one standalone Legendary Pokémon.
+
+Articuno, Zapdos, and Moltres
+Main article: Legendary birds
+
+Chase and Elaine battling Articuno, Zapdos, and Moltres
+The legendary birds—Articuno, Zapdos, and Moltres—are a trio of Legendary Pokémon first discovered in the Kanto region. Each of them is based on a mythical bird. Each is associated with a season (though none of the three is associated with autumn).
+
+In the games, all three are available in the Kanto region in all of its appearances except for Generation II. Articuno takes up residence in the Seafoam Islands in the south, Zapdos in the Power Plant (next to it in Generation IV) in the east, and Moltres in a variety of places, Victory Road, Mt. Ember, or Mt. Silver Cave, depending on the generation. In Pokémon Platinum, they are also found roaming Sinnoh. One also appears in Generation VI roaming Kalos before heading to the Sea Spirit's Den, where it can be battled and caught.
+
+In The Crown Tundra, each bird gains a Galarian form.
+
+In the anime, Articuno, Zapdos, and Moltres appear together in The Power of One, in which they rule over the islands surrounding Shamouti Island. If they are disturbed and begin to fight, only Lugia can stop them, though it will fail without additional help from the Chosen One. Separately, Articuno appears in Moving Pictures, Spring Fever, Freeze Frame, Numero Uno Articuno, The Symbol Life, and Battling in the Freezing Raid!, while Zapdos appears in As Clear As Crystal, Pokémon Ranger and the Temple of the Sea, Doc Brock!, An Electrifying Rage!, and A Crakling Raid Battle!, and Moltres appears in All Fired Up!, The Search for the Legend, A Legendary Photo Op!, and Advice to Goh!.
+
+Mewtwo
+
+Mewtwo and its two Mega Evolutions in Cerulean Cave
+Mewtwo is a Legendary Pokémon first discovered in the Kanto region. Mewtwo is the enhanced clone of the Mythical Pokémon Mew. Mewtwo has two Mega Evolutions, which increase its base stat total to 780.
+
+In the games, Mewtwo was too powerful for its creators and escaped from the Pokémon Mansion, wrecking it in the process. Mewtwo then made its home in Cerulean Cave, where all kinds of powerful Pokémon live.
+
+In the anime, Mewtwo was featured prominently, appearing in several episodes of the original series, the first movie, and the first special episode and reappeared in Getting More Than You Battled For!. In the anime, Mewtwo was created by a group of scientists funded by Team Rocket boss Giovanni to create an enhanced clone of Mew for his own use. Although Mewtwo is initially a very angry Pokémon, viewing all humans as evil due to the acts of the scientists and Giovanni, after Ash Ketchum sacrifices himself to stop the fighting between Mew and Mewtwo, Mewtwo's heart softens, and it learns that some humans do care about their, and all, Pokémon. Meeting up with Ash again, Mewtwo is further shown that, despite being a genetically-enhanced clone of Mew, it and the other clones are no different to normal Pokémon, and because it erased Ash and his friends' memory at the end of their first meeting, realizes that Ash himself truly does care for others, even if he doesn't know them. It later appears on Cero Island where Ash and Goh, the later having mistaken it for Mew due to his obsession with catching it, challenge it to a battle, where it easily won.
+
+In the anime, another Mewtwo appeared in Pokémon the Movie: Genesect and the Legend Awakened, who also appeared as Mega Mewtwo Y.
+
+Generation II
+More Legendary Pokémon were introduced in Generation II, adding five more Legendary Pokémon for a running total of 9. The Legendary Pokémon introduced in this generation down can be separated into a trio and a duo.
+
+Raikou, Entei, and Suicune
+Main article: Legendary beasts
+
+Eusine and Lyra discover Raikou, Entei, and Suicune in the Burned Tower, drawn by Kenkichi Toyama[1]
+The legendary beasts—Raikou, Entei, and Suicune—are a trio of Legendary Pokémon first discovered in the Johto region. These legendary Pokémon are based on many different creatures, both real and mythical, as well as mythological deities.
+
+According to legend, three Pokémon were trapped in the Brass Tower when it was struck by lightning and burned to the ground, resulting in their death; the trio was revived by the power of Ho-Oh and now roam across the land because of their great power. It is unknown whether the three were already a Suicune, Raikou, and Entei when they died, or whether they were simply three non-Legendary Pokémon, and Ho-Oh reincarnated them as the first Legendary beasts. The legendary beasts of the Johto region are not the only individuals of these species, however; for example, a new Entei is said to be born whenever a new volcano is formed.
+
+In Pokémon Scarlet, a sketch resembling the members of the Legendary Beasts can be found in the Scarlet Book, dubbed "An Imagined Pokémon". Later, in the game's The Hidden Treasure of Area Zero DLC, Paradox counterparts of Suicune, Entei and Raikou are discovered in the form of Walking Wake, Gouging Fire and Raging Bolt, that were all brought to Area Zero at some point by Professor Sada through her time machine.
+
+In the games, more than one of each exists, with only the trio that roams Johto after being discovered in Brass Tower's basement during Generation II and Generation IV being that of the legend. Each was captured and changed into a Shadow Pokémon by Cipher in Pokémon Colosseum, while one of the three, depending on the player's first partner Pokémon choice, roams Kanto in Pokémon FireRed and LeafGreen, Entei for Bulbasaur, Raikou for Squirtle, and Suicune for Charmander.
+
+In the anime, the Legendary beasts did not appear together until the thirteenth movie, despite being introduced in Generation II. It appears that an initial plan for the three Johto-era movies was to have each feature one of the Legendary beasts in a central role, with Entei taking a central role in Spell of the Unown: Entei and Suicune taking the stage in Celebi: The Voice of the Forest. This did not pan out, however, possibly due to the canning of Johto's Celebi plotline, and Raikou was relegated to a role in The Legend of Thunder!, featuring anime characters based on Ethan and Kris, rather than the fifth movie, which focused on Legendary Pokémon from the then-upcoming Generation III instead.
+
+Each of the beasts has made an episodic appearance, as well, with Entei appearing in Entei at Your Own Risk, Raikou briefly appearing in Houndoom's Special Delivery, and Suicune having the most prominence (as in the games) through its appearance in Don't Touch That 'dile, For Ho-Oh the Bells Toll!, Drifloon On the Wind!, Healing the Healer! and Big Brother to the Rescue!. In Healing the Healer!, a Suicune was caught by Goh, making him the first character in the anime to officially own a Legendary beast.
+
+Lugia and Ho-Oh
+Main article: Tower duo
+
+Lugia and Ho-Oh flying over Ecruteak City
+
+Shadow Lugia
+The tower duo—Lugia and Ho-Oh—are a duo of Legendary Pokémon first discovered in the Johto region. They are the game mascots of Pokémon Gold and Silver and Pokémon HeartGold and SoulSilver. They are a pair of birdlike Pokémon based on the eastern legends of the Fenghuang and Ryūjin.
+
+According to legend in the Johto region, they formerly resided in Ecruteak City atop tall towers; however, when the Brass Tower, the home of Lugia, was struck by lightning and burned to the ground, they both flew away. Lugia resolved to make its new home in the Whirl Islands, while Ho-Oh left to search the world for a pure-hearted Trainer.
+
+In the games, Lugia does not play a central role in the Generation II storyline, instead being mentioned only as having lived in Ecruteak City before the Brass Tower burned. It is found in the Whirl Islands in the Generation II games and their remakes if the player holds a Silver Wing. It reaches prominence in the storyline of Pokémon XD: Gale of Darkness, in which one is corrupted by Cipher to become the ultimate Shadow Pokémon, unable to be purified. It is also available on Navel Rock in Generation III, as an event-exclusive Legendary Pokémon.
+
+In the anime, Lugia is featured in a central role in The Power of One, in which it is revealed that Ash is the Chosen One who must help it to quell the fighting of the legendary birds. Another pair of them appeared when Ash and his friends traveled to the Whirl Islands in Johto. Likewise, in Pokémon Heroes: Latios & Latias, Latios was stated to have a father. This implies that some Legendary Pokémon can breed in the wild. Lugia appeared again in The Power of Us.
+
+Ho-Oh has a much greater focus during Generation II, being named as the creator of the Legendary beasts. It can be found, if the player has a Rainbow Wing, atop the Bell Tower in the Generation II games and their remakes. It makes an appearance in Pokémon Colosseum, as well, as a reward for purifying all Shadow Pokémon and clearing Mt. Battle's 100-battle challenge, and on Navel Rock like Lugia.
+
+In the anime, Ho-Oh is notably the first Legendary Pokémon that appeared (outside of the opening animation, at least), flying over a rainbow as Ash Ketchum started his journey, at the end of Pokémon - I Choose You!. Ash has subsequently seen it several times over the course of his journey, but has never come face-to-face with it. Ho-Oh featured in I Choose You! in a prominent role.
+Generation III
+Many more Legendary Pokémon were added to the roster in Generation III, with the eight new Legendary Pokémon bringing the total to 17. At this point in the series, Legendary Pokémon began to have a greater role in the storyline of the core series games, with the villainous teams plotting to reawaken the ancient Legendary Pokémon for their own use.
+
+Many of the stories regarding the legendaries were slightly changed, or given a new perspective in the remakes of the first Generation III core series games, Pokémon Omega Ruby and Alpha Sapphire. Five of them also received new forms.
+
+Regirock, Regice, and Registeel
+Main article: Legendary giants
+
+Regice, Registeel, and Regirock from Pokémon Adventures
+Regice, Registeel, and Regirock are three legendary giants first discovered in the Hoenn region. They are based on the golems of Hebrew legend. This Legendary trio, as well as its leader, Regigigas, often require solving puzzles to find them in the games; in the Hoenn games, they can only be encountered after solving braille puzzles.
+
+The legend of the giants is told in Pokémon Ruby, Sapphire, and Emerald and Pokémon Diamond, Pearl, and Platinum. Long ago, an ancient Pokémon, Regigigas, was said to have moved the continents into their present positions by pulling them with ropes. After it was finished, it created three Pokémon in its image: Regirock, from clay; Regice, from ice; and Registeel, from magma. Ancient people, seeing that the Pokémon was so powerful, sealed it away in the Snowpoint Temple, while those it had created were separated from it and taken to the Hoenn region, sealed in three chambers, and left in the hopes that one day, someone would unlock the chambers and be able to tame the three so as to tame Regigigas.
+
+In Hoenn, they are found in the Desert Ruins, Island Cave, and Ancient Tomb; in Sinnoh, they are found in the Rock Peak Ruins, Iceberg Ruins, and Iron Ruins; in Unova, they are found in the Underground Ruins; in Galar's Crown Tundra, they are found in the Rock Peak, Iceberg, and Iron Ruins.
+
+In the anime, Regirock, Regice, and Registeel starred together guarding the Tree of Beginning in Lucario and the Mystery of Mew, as well as members of Brandon's team in the Battle Frontier saga.
+
+In The Crown Tundra of Generation VIII, the trio becomes a quintet with two more introduced members: Regieleki and Regidrago.
+
+Latios and Latias
+Main article: Eon duo
+
+Latias and Latios around Brendan and May
+The eon duo—Latias and Latios—are a duo of Legendary Pokémon first discovered in the Hoenn region.
+
+Only one of the duo is normally available in Pokémon Ruby, Sapphire, and Emerald as well as Pokémon HeartGold and SoulSilver, with Latios being a roaming Pokémon in Ruby and SoulSilver, and Latias doing the same in Sapphire and HeartGold. In Emerald, after the player has defeated Wallace, their mother will ask if the Pokémon mentioned on TV was red or blue, and depending on that, one of the two will be roaming Hoenn. The other member of the duo will be found on Southern Island, accessible by Eon Ticket, in Ruby, Sapphire, and Emerald; and in Pewter City, through the Enigma Stone event, in HeartGold and SoulSilver.
+
+In Generation VI, Latias and Latios gained the ability to Mega Evolve. In Pokémon Omega Ruby and Alpha Sapphire, the Eon duo plays a much larger role in the main game's plot. They sense the grave danger Hoenn is about to face from the actions of Team MagmaOR/AquaAS, and while the player is talking to Steven on the east side of Route 118, LatiasOR/LatiosAS appears before the two, asking for their help. The player and Steven ride the Eon Pokémon to protect its counterpart from CourtneyOR/MattAS and their subordinate. After the fight LatiosOR/LatiasAS joins the player's party, holding its respective Mega Stone. Noticing the Mega Stone, Steven also gives the player a Mega Bracelet. After defeating GroudonOR/KyogreAS, the player receives an item called the Eon Flute from Steven, highlighting the special bond between the two. The items enables the player to summon the Eon Pokémon and use it to soar through the skies of Hoenn.
+
+In the anime, Latios and Latias were the stars of Pokémon Heroes: Latios & Latias, in which the two guarded the city of Alto Mare. With a strong connection to the Soul Dew, the two were responsible for protecting it from Annie and Oakley, who wished to steal it. In the main series, Tobias used a Latios against Ash, as his second Pokémon in the first semi-final battle of the Lily of the Valley Conference. A Nurse Joy had a Latias when testing the Pewter Gym in DPS02. Both Latios and Latias appeared in Hoopa and the Clash of Ages; in this film, both of them were capable of Mega Evolution. In The Road Most Traveled!, a Latias started following Ash and Pikachu after she was found and rescued by them. A Latios also appears in Rocket Revengers! as well, although he is stubborn Pokémon and distrustful towards humans.
+
+Kyogre, Groudon, and Rayquaza
+Main article: Super-ancient Pokémon
+
+The cataclysmic battle between Groudon, Kyogre, and Rayquaza, drawn by Ken Sugimori
+The super-ancient Pokémon—Kyogre, Groudon, and Rayquaza—are a trio of Legendary Pokémon first discovered in the Hoenn region. They are the game mascots of Pokémon Ruby, Sapphire, and Emerald and Pokémon Omega Ruby and Alpha Sapphire. The trio represents the three major components of the Earth: the hydrosphere, the lithosphere, and the atmosphere.
+
+Starting in Pokémon Omega Ruby and Alpha Sapphire, all three have new forms. Kyogre and Groudon can undergo Primal Reversion to become Primal Kyogre and Primal Groudon using the Blue Orb or Red Orb. Rayquaza can Mega Evolve into Mega Rayquaza if it knows Dragon Ascent.
+
+During the course of Pokémon Ruby and Sapphire and Pokémon Omega Ruby and Alpha Sapphire, Team Magma or Team Aqua, depending on the version, seek out Groudon or Kyogre (respectively), with the intention of awakening them to make more homes for Pokémon of the land or sea. Eventually, the plan goes wrong, and the player is forced to defeat or capture the Legendary Pokémon to stop a global disaster. In Pokémon Emerald, instead, both teams are on the loose, intending to awaken their respective Legendary Pokémon, and only by interference from the player and Rayquaza does the fight end up resolved. In Pokémon Omega Ruby and Alpha Sapphire, after the main plot, Rayquaza is the target of a mysterious girl named Zinnia during the Delta Episode.
+
+In the games, according to legend, thousands of years ago, during the primal age, the world was overflowing with natural energy. Primal Groudon and Primal Kyogre fought over that energy in endless furious clashes. In the face of Primal Groudon and Kyogre's great power, people could do nothing. However, Rayquaza intervened, and its power overwhelmed that of the two Primal Pokémon, and peace returned to the world. A thousand years later, a meteoroid hit the earth, causing cracks in the ground that unleashed natural energy, causing Groudon and Kyogre to re-battle each other. Humans had a collective memory of how Rayquaza saved their race long ago, and that wish combined with the power of the Meteorite allowed Rayquaza to Mega Evolve for the first time and calm the two from quarreling.
+
+In the anime, Groudon and Kyogre appeared in the two-part episode consisting of Gaining Groudon and The Scuffle of Legends. In these episodes, Team Magma and Team Aqua finally succeed in awakening the two, as in the games, though their conflict is resolved very quickly. Rayquaza appeared in Destiny Deoxys, where it fought against the pair of Deoxys. The super-ancient Pokémon all made a starring appearance in their Primal/Mega Forms in Hoopa and the Clash of Ages, engaging in a violent clash with many other legendaries.
+
+Generation IV
+Nine more Legendary Pokémon were introduced in Generation IV, bringing the total to 26 Legendary Pokémon. Many of the Legendary Pokémon of this generation have little connection to the plot of the games, instead being minor, post-Hall of Fame sidequests for the player to go on. Three of the newly introduced Legendary Pokémon (four prior to the Pokémon Platinum expansion of the Pokédex) are not in the Sinnoh regional Pokédex, appearing only in the National Pokédex.
+
+Uxie, Mesprit, and Azelf
+Main article: Lake guardians
+
+Uxie, Mesprit, and Azelf in Shrouded Ruins
+The lake guardians—Uxie, Mesprit, and Azelf—are a trio of Legendary Pokémon first discovered in the Sinnoh region. They each represent the spirit of consciousness, with Uxie embodying knowledge, Mesprit embodying emotion, and Azelf embodying willpower. According to legend, having been created by the Original One, the trio have the power to tame the powerful dragons it also created.
+
+In the games, Uxie, Mesprit, and Azelf are found in the caverns of Lake Acuity, Lake Verity, and Lake Valor; however, Mesprit will roam Sinnoh after the player has encountered it, rather than battle immediately as the other two will. The trio are captured by Team Galactic's Commanders, Jupiter, Mars, and Saturn, and subjected to the experiments of Charon to draw out the Red Chain from the gems in their bodies. Cyrus summons Dialga and Palkia, and alone, the lake guardians' power is not enough to stop them. Giratina interferes and draws Cyrus into the Distortion World, where the lake guardians assist the player in navigation through Giratina's lair.
+
+In the anime, the lake guardians appeared, first in spirit form, in Following a Maiden's Voyage!, Pruning a Passel of Pals, and Uncrushing Defeat!, to Dawn, Ash, and Brock. They were captured by J, who had been hired by Team Galactic, in The Needs of the Three!, and were freed by Ash, Dawn, and Brock to stop the power of Dialga and Palkia in The Battle Finale of Legend!.
+Dialga, Palkia, and Giratina
+Main article: Pokémon of Myth
+
+Dialga and Palkia confronting Origin Giratina at Spear Pillar
+The Pokémon of Myth—Dialga, Palkia, and Giratina—are a trio of Legendary Pokémon first discovered in the Sinnoh region. They are the game mascots of Pokémon Diamond, Pearl, and Platinum and Pokémon Brilliant Diamond and Shining Pearl. Each represents an aspect of universe: Dialga represents time, Palkia represents space, and Giratina represents antimatter.
+
+In the games, Dialga and Palkia are sought by Cyrus to destroy and then remake the universe without spirit, a feature he hates about humanity. In Diamond and Pearl, Dialga or Palkia can be caught at Spear Pillar, while Giratina may be obtained after the Pokémon League has been conquered. In Platinum, however, Giratina interferes with Cyrus's planned destruction of the universe and may be captured in its home, the Distortion World, while Dialga and Palkia cannot be found until Cynthia has been defeated.
+
+In the anime, Dialga and Palkia appeared together, fighting in The Rise of Darkrai, while Dialga and Giratina appeared in Giratina and the Sky Warrior. The three appeared together in Arceus and the Jewel of Life and Hoopa and the Clash of Ages. Dialga and Palkia were also summoned at the Spear Pillar and chained by Cyrus in The Battle Finale of Legend!, but were freed when he escaped into another universe and the Red Chain was shattered by Ash, Dawn, Brock, and their Pokémon.
+
+In the Sinnoh-based games only, Dialga and Palkia were referenced as "mythical Pokémon" (Japanese: 神話のポケモン mythical Pokémon); however, this pre-dates the term Mythical Pokémon (Japanese: 幻のポケモン Illusory Pokémon) and has a different Japanese name.
+
+In Pokémon Legends: Arceus, Dialga and Palkia were given Origin Formes like Giratina.
+Cresselia
+
+Cresselia
+Cresselia is a Psychic-type is a Legendary Pokémon first discovered in the Sinnoh region. This Legendary Pokémon represents the crescent moon, a sign of hope and good dreams.
+
+In the games, Cresselia can be found on Fullmoon Island as part of a post-League quest to rid Sailor Eldritch's son of a nightmare. She will flee immediately, roaming Sinnoh and leaving behind a Lunar Feather, which will heal the boy. In Pokémon Black 2 and White 2, Cresselia can be found on Marvelous Bridge after visiting the Strange House.
+
+Cresselia made her debut appearance in the anime in Sleepless in Pre-Battle!, in which she fought briefly against a Darkrai.
+Heatran
+
+Ben and Summer battling Heatran, drawn by Kouki Saitou
+Heatran is a Fire/Steel-type Legendary Pokémon first discovered in the Sinnoh region. Heatran is said to be the embodiment of the planet's boiling core.
+
+In Sinnoh's Battle Zone it appears in Stark Mountain; in Unova it appears in Reversal Mountain; and in Hoenn it appears in Scorched SlabORAS. According to legend, it was born at the same time Dialga, Palkia, and Giratina created Sinnoh at the Spear Pillar and created the Battle Zone.
+
+Heatran first appeared in the anime in Arceus and the Jewel of Life, under the control of Marcus, and later appeared in Pokémon Ranger: Heatran Rescue! as part of a Pokémon Ranger rescue mission.
+
+Regigigas
+
+Regigigas
+Regigigas is a Normal-type is a Legendary Pokémon first discovered in the Sinnoh region. Regigigas the master of the legendary giants, having created them in ancient times. It is said to have moved the continents in place, pulling them by rope.
+
+In the games, Regigigas is found at the Snowpoint TempleDPPt, Twist MountainB2W2, and the Island CaveORAS, though it will not awaken unless the first three members of the legendary giants are in the player's party. It is found in the Cave World of the Ultra Space WildsUM with no prerequisites. It is also found in a certain Pokémon Den in Giant's BedSwSh, but will only awaken if all legendary giants (now including Regieleki and Regidrago) are in the party. Since the player can choose to capture only one of the two new giants, they must obtain the other through trading.
+
+Regigigas appeared in the anime in Giratina and the Sky Warrior, in which it attempted to stop a glacier from destroying Ten'i Village. Another appeared in Pillars of Friendship!, in which it was hunted by J and defended by Brandon.
+Generation V
+Nine additional Legendary Pokémon were introduced in Generation V, totaling 35 Legendary Pokémon. Reshiram and Zekrom played a large role in the storyline of Pokémon Black and White, with the respective mascot Pokémon being a necessary and unavoidable capture to progress to the end of the game.
+
+Cobalion, Terrakion, and Virizion
+Main article: Swords of Justice
+
+Terrakion, Cobalion, and Virizion in a forest
+The Swords of Justice—Cobalion, Terrakion, and Virizion—are a trio of Legendary Pokémon first discovered in the Unova region. The Mythical Pokémon Keldeo is also sometimes considered part of the Swords of Justice. The trio are based on the titular characters of the 1844 French novel The Three Musketeers, while Keldeo is based on their apprentice d'Artagnan. They are also based on hooved mammals such as deer, antelopes, oxen, goats, and horses.
+
+According to legend, they protect Pokémon from having their habitats destroyed by humans and have been known to have attacked human castles during the Middle Ages. Keldeo, was rescued and raised by the trio after its home was destroyed by fire. All four of them can use their horns like swords, and learn Sacred Sword (which was originally the group's signature move).
+
+In Pokémon Violet, a sketch resembling the members of the Swords of Justice can be found in the Violet Book, dubbed "An Imagined Pokémon". Later, in the game's The Hidden Treasure of Area Zero DLC, Paradox counterparts of Virizion, Terrakion and Cobalion are discovered in the form of Iron Leaves, Iron Boulder and Iron Crown, that were all brought to Area Zero at some point by Professor Turo through his time machine.
+
+They made their anime debut together, in the fifteenth Pokémon film Kyurem VS. The Sword of Justice, where Keldeo was responsible for the freezing of the other three during a battle against Kyurem, and sought help from Ash and his friends. In the movie, Cobalion acts as the leader of the Swords of Justice, protecting Pokémon and humans alike through the world.
+
+Tornadus, Thundurus, and Landorus
+Main article: Forces of Nature
+
+Incarnate Form Tornadus, Thundurus, and Landorus in the anime
+The Forces of Nature—Tornadus, Thundurus, and Landorus—are a trio of Legendary Pokémon first discovered in the Unova region. They are based on kami: Fūjin, god of wind; Raijin, god of thunder and lightning; and Inari, a fertility deity. Together the three represent the heavens and the nourishing effect the sky has upon the earth. In Pokémon Legends: Arceus, a fourth member of the Forces of Nature was introduced, Enamorus. They can switch between their default Incarnate Formes and alternate Therian Forme using the Reveal Glass; the Therian Formes were introduced in Pokémon Black 2 and White 2.
+
+According to a folktale retold by children at the Abundant Shrine, Landorus punished Tornadus and Thundurus for destroying the land with gales and thunderstorms, and a shrine was built in honor of him.
+
+In the anime, the Forces of Nature were sought by Team Rocket in Unova from The Lonely Deino! until they were able to awaken them on Milos Island in Stopping the Rage of Legends! Part 1 and Part 2. Tornadus and Thundurus fought on the island, while Ash and his friends awakened Landorus to put a stop to the fight (they all appeared in Incarnate Forme during these episodes). They debuted in Therian Forme in Unova's Survival Crisis!, when Team Rocket once again attempted to capture them as the final goal of Operation Tempest. Together, they are said to have the power to control nature, which can be harnessed by one who possesses both Meloetta and the Reveal Glass.
+Reshiram, Zekrom, and Kyurem
+Main article: Tao trio
+
+Reshiram and Zekrom confronting Kyurem and its Black and White Forms
+Reshiram, Zekrom, and Kyurem are a trio of Legendary Pokémon first discovered in the Unova region. Reshiram and Zekrom are the game mascots of Pokémon Black and White, while Black Kyurem and White Kyurem are the mascots of Pokémon Black 2 and White 2. Zekrom and Reshiram represent balance through the aspects of Yin and Yang, respectively. Originally, they were a single dragon that helped found the Unova region's nation, but fighting between the two brothers who founded the nation split them into two halves; despite this, the two Pokémon do not willingly fight each other.
+
+In the games, Team Plasma hunt either Reshiram or Zekrom in Pokémon Black and White in order to use them to liberate all Pokémon from their owners. N captures one of them and defeats Alder. The other dragon emerges from the Dragon Stone the player possesses, and the player must capture it and use it to defeat N. After his defeat, N rides off on his dragon to a far-off region. In Pokémon Black 2 and White 2, which take place two years later, Ghetsis revives Team Plasma and captures Kyurem in order to freeze and take control of the Unova region. N confronts him with ZekromB2/ReshiramW2, but Ghetsis seizes the opportunity to fuse the Tao dragon with Kyurem using the DNA Splicers to create Black KyuremB2/White KyuremW2. The player defeats Kyurem and Ghetsis, restoring balance to the region.
+
+Reshiram and Zekrom are the stars of Pokémon The Movie: White—Victini and Zekrom and Pokémon The Movie: Black—Victini and Reshiram along with Victini. Zekrom debuted in In The Shadow of Zekrom! causing Ash's Pikachu's electric crisis, and appeared in numerous flashbacks and fantasies afterward. Reshiram also debuted in a cameo at the beginning of In The Shadow of Zekrom! and had a large role in the "Episode N" arc, as Team Plasma's target, appearing in What Lies Beyond Truth and Ideals!. Reshiram and Zekrom make a cameo appearance in Hoopa and the Clash of Ages.
+
+Kyurem is related to Reshiram and Zekrom and represents wuji, which is the absence of yin and yang. Using the DNA Splicers, Kyurem can be fused with Reshiram or Zekrom into White Kyurem or Black Kyurem, respectively; with the same item, the fusion can be undone.
+
+Kyurem is the star of Kyurem VS. The Sword of Justice along with Keldeo, where it seems like a ferocious Pokémon and can change forms without the DNA Splicers. It is also capable of this when it appears in Hoopa and the Clash of Ages.
+
+Generation VI
+Three additional Legendary Pokémon were introduced in Generation VI, totaling 38 Legendary Pokémon. This is the first generation to introduce fewer Legendary Pokémon than the generation before it.
+
+Xerneas, Yveltal, and Zygarde
+Main article: Aura trio
+
+Xerneas healing a forest, drawn by Yusuke Ohmura[citation needed]
+
+Encountering Zygarde 50% Forme in Terminus Cave
+
+Yveltal destroying a city, drawn by Yusuke Ohmura[citation needed]
+Xerneas, Yveltal, and Zygarde are a trio of Legendary Pokémon first discovered in the Kalos region. Xerneas and Yveltal are the game mascots of Pokémon X and Y. Xerneas and Yveltal represent life and destruction, respectively, while Zygarde is said to monitor the balance of the ecosystem and reveal its power when the ecosystem is disrupted. Xerneas has the power to share eternal life, while Yveltal absorbs the life force of everything around it. Xerneas sleeps in the form of a tree, while Yveltal sleeps in the form of a cocoon. Xerneas and Yveltal have the Abilities Fairy Aura and Dark Aura, respectively, while Zygarde's Aura Break reverses the effects of these Abilities.
+
+Xerneas has two forms, appearing in Active Mode in battle and Neutral Mode otherwise; Yveltal has no form differences. Zygarde appeared only as Zygarde 50% Forme in Pokémon X and Y, but had two other forms and two further components introduced in the anime and in Pokémon Sun and Moon. Zygarde's other forms are Zygarde 10% Forme, a dog-like form that includes 10% of Zygarde's full power, and Zygarde Complete Forme, whose power is said to exceed that of Xerneas and Yveltal. Its further components are Zygarde Cells, tiny cell-like creatures that make up Zygarde's body, and Zygarde Cores, cell-like creatures said to be its mind.
+
+In Pokémon X and Y, Lysandre captures Xerneas or Yveltal to use their power in the ultimate weapon to create a "beautiful world" in his image. Either Xerneas or Yveltal are captured by the player at the Team Flare Secret HQ upon awakening from their dormant forms. Zygarde 50% Forme can be found in Terminus Cave after the player enters the Hall of Fame.
+
+In the anime, Xerneas and Yveltal starred in the movie Diancie and the Cocoon of Destruction, along with Diancie, where Xerneas and Yveltal are shown to be residents of the Allearth Forest. Xerneas made a minor appearance in Foggy Pokémon Orienteering!, being responsible for causing Ash and his friends to get lost in fog during the orienteering activity.
+
+In the anime, Zygarde debuted in Mega Evolution Special IV in its 50% Forme alongside a Zygarde Core. A Zygarde Core has traveled alongside Ash and his friends, nicknamed Squishy by Bonnie, since the beginning of the XYZ arc, and another Zygarde Core referred to as Z2 was captured by Team Flare. Both of these Cores have appeared in all three forms of Zygarde.
+Generation VII
+Generation VII introduced eleven Legendary Pokémon, totaling 49 Legendary Pokémon. For the first time, Legendary Pokémon capable of evolution are introduced—six of these Pokémon are part of evolutionary chains.
+
+Type: Null and Silvally
+Main article: Beast killer project
+
+Gladion's Type: Null in the anime
+
+Gladion's Silvally changing its Typing to Fire, by Hitoshi Ariga
+Type: Null and its evolve form Silvally are a pair of Legendary Pokémon first discovered in the Alola region.
+
+They were originally created by the Aether Foundation for the beast killer project under the direction of Aether President Lusamine,[2][3] which aimed to create a Pokémon to fight against the Ultra Beasts.
+
+Originally dubbed as "beast killer" (shortened as BK), Type: Full (Japanese: タイプ：フル Type: Full) was created with data collected from Sinnoh's Canalave Library, allowing the Pokémon to change their type to any of the 18 types (similar to Arceus) with usage of the RKS System. Three models of Type: Full were created by the Aether Foundation. The research on the Pokémon was then stolen by an unknown source and more was created in the Galar region, being distributed by Macro Cosmos. The beast killer project was deemed a failure as the subjects of the project were known to go berserk and resisted their RKS System programming. The three Type: Full were given helmets to restrict the RKS System's effects, renamed to Type: Null, and then were put into cryogenic stasis. Aether Branch Chief Faba was involved with the creation of the helmet used to suppress the RKS System and was created without the permission of Lusamine. Gladion managed to evolve a stolen Type: Null that became his partner, which he named Silvally.
+
+In the anime, Type: Null debuted in Rising from the Ruins! under the nickname "Silvally" and owned by Gladion. It later evolved into Silvally in Mission: Total Recall!.
+
+Tapu Koko, Tapu Lele, Tapu Bulu, and Tapu Fini
+Main article: Guardian deities
+
+Tapu Koko, Tapu Fini, Tapu Bulu, and Tapu Lele at the Altar of the Sunne in the anime
+The tapu—Tapu Koko, Tapu Lele, Tapu Bulu, and Tapu Fini—are a quartet of Legendary Pokémon first discovered in the Alola region. They serve as the guardian deities of each of Alola's four main islands: Tapu Koko on Melemele Island, Tapu Lele on Akala Island, Tapu Bulu on Ula'ula Island, and Tapu Fini on Poni Island.
+
+Alola's island kahunas are each chosen by their island's guardian deity. Grand trials are often done in favor and praise of the Tapu. The Tapu are known to be very kind in certain situations, lending gifts, but they can also be very cruel, destroying certain locations or harming others when feeling angered. Multiple statues can be found throughout the region resembling the tapu, including in front of Alola's Pokémon League at Mount Lanakila. Many Strange Souvenirs in the shape of the guardians are given out to tourists and can be bought in the Thrifty Megamart.
+
+According The Light of Alola, a book found in the Malie Library, the tapu fought off against a beast from another dimension and lost. They were rewarded with the Tapunium Z, their signature Z-Crystal. The beast then created multiple Cosmog for the tapu to take care of and protect as they grow up before returning to Ultra Space.
+
+In the story of Sun, Moon, Ultra Sun and Ultra Moon, Lillie is tasked with researching Alola's ruins, as Nebby, her Cosmog, finds interest in exploring them. On her way to the Ruins of Conflict, Nebby gets trapped on an unsteady plank bridge being attacked by wild Pokémon, the player swings in to save Nebby. With both falling in danger, Tapu Koko saves them and gifts the player with a Sparkling Stone. All four of the guardian tapu are seen coming to aid the island in assistance with the island kahuna to fend off a swarm of Ultra Beasts that were summoned by Lusamine on Aether Paradise. Through the events that the player comes across at Poni Island, Hapu is granted the title of kahuna of Poni by Tapu Fini, after her grandfather had passed away. At the end of Sun and Moon only, Lillie and the player return to Tapu Koko's shrine to give it their thanks, there, Tapu Koko initiates a battle with the player where they can defeat, catch, run or lose to the deity and will be rewarded with their own Tapunium Z.
+
+In the anime, Tapu Koko first appeared in Alola to New Adventure! and gave Ash a Z-Ring. Tapu Lele debuted in Partner Promises!, in which it healed Ash. Tapu Bulu and Tapu Fini both debuted in A Dream Encounter!, in which all four tapu sensed Nebby's birth. All four later appeared in Family Determination! and Revealing the Stuff of Legend!, in which they helped Nebby evolve into Solgaleo.
+Cosmog and Cosmoem
+Main article: Light trio
+
+Nebby as a Cosmog with Lillie, drawn by Megumi Mizutani
+
+Nebby as a Cosmoem in Lillie's hands in Pokémon Evolutions
+Cosmog and its evolved form Cosmoem are Psychic-type Legendary Pokémon first discovered in Alola. They are the pre-evolutions of Solgaleo and Lunala.
+
+Ultra Wormholes can be created using gasses extracted by Cosmog,[4] but more can be created in heavier doses using the Pokémon as a whole. Cosmog evolves into Cosmoem under extreme stress, causing the Pokémon to condense into a smaller immobile form resembling a cocoon. With the help of the Sun and Moon Flutes being played during certain times of the day, Cosmoem can evolve into either Solgaleo or Lunala when brought to the Altar of the SunneSUS or the Altar of the MooneMUM.
+
+According to Alolan legend, Cosmog were given to the guardian deities by Solgaleo and Lunala as heirs of the region, with the tapu watching over the Cosmog until they could grow up and evolve.
+
+In the story of Pokémon Sun and Moon and Pokémon Ultra Sun and Ultra Moon, the Aether Foundation is studying a particular Cosmog. As a part of the research on Ultra Wormholes and Ultra Beasts by Professor Mohn written up in the Aether Report in Secret Lab B, the report suggests that Cosmog can create Ultra Wormholes when put under life-threatening stress, that it is a type of Ultra Beast, and that it and its evolutionary line have come from another dimension known as Ultra Space. The Aether Foundation plans to create a device to manipulate Ultra Wormholes using Cosmog. Lillie, the daughter of the Aether Foundation's president, Lusamine, spirits a Cosmog away and nicknames it Nebby, hiding it in her bag as she tries to learn more about it by visiting the guardian deities and their ruins. Throughout the game, Nebby evolves into a Cosmoem and eventually the version mascot of the game: the Psychic/Steel-type Solgaleo in Pokémon Sun and the Psychic/Ghost-type Lunala in Pokémon Moon. Another Cosmog can be obtained by the player at the Lake of the SunneMUM or the Lake of the MooneSUS.
+
+In the anime, both Solgaleo and Lunala debuted in A Dream Encounter, in which they emerged from an Ultra Wormhole at Altar of the Sunne to create a Cosmog, which Ash found and cared for. Lillie named this Cosmog Nebby. It evolved into Cosmoem in Faba's Revenge! and then into Solgaleo in Revealing the Stuff of Legend!.
+Solgaleo, Lunala, and Necrozma
+Main article: Light trio
+
+Solgaleo, Lunala, and Necrozma
+
+Dusk Mane and Dawn Wings Necrozma using their exclusive Z-Moves
+
+Ultra Necrozma
+Solgaleo, Lunala, and Necrozma are a trio of Legendary Pokémon first discovered in the Alola region. Solgaleo and Lunala are the game mascots of Pokémon Sun and Moon, while Dusk Mane Necrozma and Dawn Wings Necrozma are the mascots of Pokémon Ultra Sun and Ultra Moon. They are said to have come from Ultra Space.
+
+Solgaleo and Lunala have form like-transformations known as Radiant Sun phase and Full Moon phase respectively when using their powers. Necrozma has three additional forms (all introduced in Pokémon Ultra Sun and Ultra Moon): Dusk Mane Necrozma, Dawn Wings Necrozma, and Ultra Necrozma. It transforms into Dusk Mane Necrozma or Dawn Wings Necrozma when it has absorbed Solgaleo or Lunala, respectively. Either of these two forms can transform into Ultra Necrozma after absorbing enough light to restore its true form.
+
+All three have their own unique Z-Crystals: Solganium Z, Lunalium Z and Ultranecrozium Z. Necrozma, while transformed into either Dusk Mane or Dawn Wings, can make use of the other two's Z-Crystals. Z-Power comes from light produced by Necrozma,[5] while Z-Crystals and Sparkling Stones (and Z-Ring/Z-Power Rings by extension) are pieces of Necrozma that channel Z-Power in order to produce Z-Moves.
+
+According to The Light of Alola, a book in the Malie Library, they gave light to the Alola region when it was first created. According to legends, when Solgaleo and Lunala appeared from an Ultra Wormhole, the ancient kings of Alola bowed down to them and worshiped them. The guardian deities battled them and lost, with the duo gifting the tapu the Tapunium Z after their defeat. In legends in Pokémon Ultra Sun and Ultra Moon, Necrozma is referred to as "The Blinding One", as it once shared light across Alola and Ultra Space, before an unknown injury caused Necrozma to lose its true form. This resulted in Necrozma becoming extremely vicious and constantly in pain, which made it steal light from other worlds, and even from Solgaleo and Lunala, in order to sustain itself and regain the form it once had.
+
+In the story of Pokémon Sun, Moon, Ultra Sun, and Ultra Moon, Hapu tells the player and Lillie about an ancient ceremony to summon the Legendary Pokémon by playing Sun and Moon Flutes at the Altar of the Sunne/Altar of the Moone on Poni Island. The player and Lillie find the flutes and perform the ritual to summon the Legendary Pokémon—but to their surprise, doing so causes Nebby, a Cosmoem that Lillie had been caring for, to evolve into Solgaleo or Lunala.
+
+In Pokémon Sun and Moon, the newly evolved Nebby takes the pair to the Ultra Deep Sea so Lillie can confront her mother. After this confrontation, the player catches Nebby. Later, Necrozma can be found while hunting Ultra Beasts with the International Police, although they identify it as distinct from the Ultra Beasts despite its similarities.
+
+In Pokémon Ultra Sun and Ultra Moon, the Aether Foundation had researched Necrozma with help from the Ultra Recon Squad, leading Aether Foundation President Lusamine to prepare to protect Alola from Necrozma. When the player and Lillie evolve Nebby at the altar, Necrozma emerges from an Ultra Wormhole and absorbs Nebby, then flees back to Ultra Megalopolis. The player persues it, so that they can defeat it and return light back to the Alola Region.
+
+In the anime, Solgaleo and Lunala both debuted in A Dream Encounter!, where the pair emerged from two Ultra Wormhole at Altar of the Sunne to create a Cosmog, which it then gave to the guardian deities to be placed in a location when it will be found by Ash. Ultra Necrozma debuted in Tough Guy Trials! in a book mentioned by Acerola, which revealed how Ultra Necrozma, Solgaleo and Lunala brought light to Alola and how Ultra Necrozma earned the title of the "Blinding One".
+
+Generation VIII
+In Generation VIII, 11 Legendary Pokémon were introduced, bringing the total to 60. Of these, three were introduced in the base game of Pokémon Sword and Shield, two were introduced in The Isle of Armor, five were introduced in The Crown Tundra, and one was introduced in Pokémon Legends: Arceus. Additionally, The Crown Tundra introduced regional forms of three Legendary Pokémon from Generation I.
+
+Galarian Articuno, Zapdos, and Moltres
+
+Galarian Articuno, Zapdos, and Moltres
+Galarian Articuno, Zapdos, and Moltres are the Galarian forms of the legendary birds. They were first discovered in the Crown Tundra of the Galar region. The Galarian forms are all have Flying as their secondary type, but they have a different primary type to their Kantonian counterparts.
+
+Every few decades they migrate to the Dyna Tree at Dyna Tree Hill in the Crown Tundra. The trio fight each other over it every time they meet, although they do not appear to have as strong a rivalry as their Kantonian counterparts. For a time, the Galarian legendary birds were believed be the same as the Kantonian legendary birds due to them possessing similar characteristics to Ice, Electric, and Fire, respectively.
+
+In The Crown Tundra, the Trio can be encountered at Dyna Tree Hill, which triggers a cutscene that causes all three flee to the three different spots in Galar. Articuno can be found in the Crown Tundra, Zapdos in the Wild Area, and Moltres in the Isle of Armor.
+Zacian and Zamazenta
+Main article: Legendary heroes
+
+Hero of Many Battles Zacian and Zamazenta in the Slumbering Weald
+
+Crowned Sword Zacian and Crowned Shield Zamazenta atop Hammerlocke Stadium
+The legendary heroes—Zacian and Zamazenta—are a duo of Legendary Pokémon first discovered in the Galar region. They are the game mascots of Pokémon Sword and Shield.
+
+According to legend, 3000 years ago, a cataclysmic event known as the Darkest Day was caused by Eternatus's awakening. Zacian and Zamazenta worked together to defend the region with the help of two human heroes. Together, they managed to take Eternatus down, forcing it back into another slumber, with Eternatus's defeat and the Darkest Day stopped, the two Legendary Pokémon retreated to the Slumbering Weald to return to their slumber, turning into statues while the two human heroes became Galar's new kings.
+
+As the years passed, the two Pokémon were nearly forgotten by history, fake stories were made overtime; at the hall of the Budew Drop Inn, a statue of a single young hero, bearing a sword and a shield was built, said to be the one who defeated all gigantic Pokémon and saving the region, but in Hammerlocke Vault, four tapestries were made, depicting two young men using a sword and a shield to reverse the storm above them and afterwards, being crowned as kings. In the present day though, the truth behind the legend was finally discovered by Sonia, after Bede destroyed a colorful ancient mural, revealing the stone statues of Zacian, Zamazenta and the two ancient kings of Galar. Sonia eventually published the truth of the legend in a book, and became a point of contention from two brothers, Sordward and Shielbert, who claimed to be the descendants for the old kings.
+Eternatus
+
+Eternatus in Pokémon Evolutions
+
+Eternamax Eternatus uncurling its body atop Hammerlocke Stadium
+Eternatus is a Legendary Pokémon first discovered in the Galar region.
+
+According to legend, it is an extraterrestrial Pokémon that crash-landed 20,000 years ago. 3000 years ago, it awakened for the very first time, threatening to destroy the whole region with its power, in the event known as the Darkest Day, but it was stopped by Zacian, Zamazenta, and the two humans.
+
+In the story of Pokémon Sword and Shield, President Rose tried to reawaken this Pokémon and bring about the Darkest Day once again, hoping it can fill the region for more years to come, but it escaped. Due to the efforts of Leon, Hop and the player, Eternamax Eternatus was stopped once again with the help of the legendary heroes as the player catch the Legendary dragon once and for all, so it causes no more harm to the Galar region.
+
+In the anime, when Eternatus is unsealed, Sonia, Professor Magnolia, and Leon work together to teach it to coexist with humans. This ultimately results in Eternatus returning to the wild to act as Galar's guardian.
+
+In the Pokémon Adventures manga, Casey implies that it could be possible to coexist with Eternatus, and Oleana claims she will try to find a way to.
+Kubfu and Urshifu
+
+Kubfu and two Urshifu in their Rapid and Single Strike Styles, drawn by HYOGONOSUKE
+Kubfu and its evolved form Urshifu are a pair of Legendary Pokémon first discovered in the Isle of Armor of the Galar region. They were introduced in The Isle of Armor DLC for Pokémon Sword and Shield.
+
+Urshifu has two different forms, with its form depending on how it evolved: Single Strike Style and Rapid Strike Style. Kubfu evolves into Single Strike Style Urshifu when trained from a Scroll of Darkness, such as the one located at the Tower of Darkness; it evolves into Rapid Strike Style Urshifu when trained from a Scroll of Waters, such as the one located at the Tower of Waters.
+
+In the story of The Isle of Armor, Mustard gives it to the player character after they complete the three trials of the Master Dojo. It is referred to as the "sacred armor" of the Master Dojo. Once the player trains with Kubfu at either the Tower of Darkness or the Tower of Waters in the Towers of Two Fists challenge, it will evolve into Urshifu.
+
+Regieleki and Regidrago
+
+Regieleki and Regidrago in Split-Decision Ruins
+Regieleki and Regidrago are a pair of Legendary Pokémon first discovered in the Crown Tundra of the Galar region. They are members of the legendary giants who were introduced in The Crown Tundra DLC for Pokémon Sword and Shield.
+
+They are said to be have been created by Regigigas, using pure Electric energy and crystallized Dragon energy. They are seen as the most powerful of the giants, with Regieleki being capable of creating the electricity of a whole region, while Regidrago is said to possess the power of every Dragon Pokemon.
+
+In the story of The Crown Tundra, they were sealed away by ancient people in the Split-Decision Ruins due to how dangerous they were. They can be encountered in the ruins they were sealed in after bringing and capturing the original three legendary giants; however, only one of these two giants can be captured.
+
+In the anime, Goh and Gary managed to catch both of them in the same ruins.
+Calyrex, Glastrier, and Spectrier
+
+Calyrex, Glastrier, and Spectrier
+Calyrex, Glastrier, and Spectrier are three Legendary Pokémon first discovered in the Crown Tundra of the Galar region. They were introduced in The Crown Tundra DLC for Pokémon Sword and Shield.
+
+Calyrex can take on one of two alternate forms by combining with Glastrier or Spectrier using the Reins of Unity. When riding Glastrier, it becomes Ice Rider Calyrex; when riding Spectrier, it becomes Shadow Rider Calyrex.
+
+According to legend, Glastrier or Spectrier had been terrorizing Freezington, ruling the area as the "lord of the tundra". One day, Calyrex was nursed back to health by Freezington's citizens. To repay the citizens, Calyrex defeated Glastrier/Spectrier and gained its loyalty, making the Pokémon its loyal steed. Afterwards, Calyrex ruled over the Crown Tundra—known as the King of Bountiful Harvests, it helped spread vegetation and supported the harvest every year with its loyal steed. It was renowned for its graceful and regal movements.
+
+In the story of The Crown Tundra, people had forgetten about Calyrex and it slowly lost most of its powers, and its steed abandonned it as a result, leaving Calyrex alone, until discovered by the player. The player plants Carrot Seeds in one of two locations, determining which Pokémon is chosen as the steed of Calyrex. After fixing its statue in Freezington, Glastrier/Spectrier appears before the player and communicate with them with the help of Peony. After accepting it has been completely forgotten by the residents of the town, Calyrex decided to try and tame its steed once again using the Reins of Unity to regain most of its old power. After succeeding, Calyrex thanks the player and battles them in its Ice Rider/Shadow Rider form, allowing itself to be caught afterwards.
+
+In the Sword & Shield arc of Pokémon Adventures, Calyrex mentions that it met Eternatus during the Darkest Day 3,000 years ago.
+Enamorus
+
+Incarnate Form Enamorus
+Enamorus is Legendary Pokémon first discovered in the Hisui region. It was introduced in Pokémon Legends: Arceus as the fourth member of the Forces of Nature.
+
+In Hisui, it and Landorus were worshipped as the gods of field and spring who brought life to the region and signaled the end of winter, hence its title as the "Herald of Spring". According to legend, while it is known to be kind with its love, it will not hesitate to punish those who disrespect life.
+
+In the story of Pokémon Legends: Arceus, it can be encountered in the Crimson Mirelands after capturing and filling the Pokédex entries of the other Forces of Nature.
+Generation IX
+In Generation IX, 11 Legendary Pokémon so far were introduced, bringing the total to 71. Of these, six were introduced in the base game of Pokémon Scarlet and Violet, four were introduced in The Teal Mask, and one was introduced in The Indigo Disk.
+
+Wo-Chien, Chien-Pao, Ting-Lu, and Chi-Yu
+
+Chi-Yu, Chien-Pao, Wo-Chien, and Ting-Lu
+Main article: Treasures of ruin
+The treasures of ruin—Wo-Chien, Chien-Pao, Ting-Lu, and Chi-Yu—are a quartet of Legendary Pokémon first discovered in the Paldea region. They have been referred to as cursed treasures and Pokémon of Ruin. All of them are Dark-type.
+
+According to legend, these four Legendary Pokémon were once four ancient treasures, but were corrupted by negative human emotions. They came into the possession of an ancient king of Paldea. Eventually, the king's greed awakened them and unleashed disasters, resulting in these berserk Pokémon destroying the kingdom. All four were later sealed away in shrines by ancient Pokémon wielders after a fierce battle.
+
+In the story of Pokémon Scarlet and Violet, these shrines can be unlocked by collecting 32 stakes scattered across Paldea in order to face them. Wo-Chien is located at the Grasswither Shrine inside of the South Province (Area One), Chien-Pao is located at the Icerend Shrine inside of the West Province (Area One), Ting-Lu is located at the Groundblight Shrine inside of the Socarrat Trail, and Chi-Yu is located at the Firescourge Shrine inside of the North Province (Area Two).
+
+Koraidon and Miraidon
+Main article: Paradox duo
+
+Apex Build Koraidon and Ultimate Mode Miraidon
+Koraidon and Miraidon are a duo of Legendary Pokémon first discovered in the Paldea region. They are the game mascots of Pokémon Scarlet and Violet. They are Paradox Pokémon, being past and future relatives of Cyclizar, respectively. Both are far more aggressive and powerful than their contemporary counterpart.
+
+They can change into various forms to better facilitate travelling: Sprinting Build, Swimming Build, and Gliding Build for Koraidon; and Drive Mode, Aquatic Mode, and Glide Mode for Miraidon. While low in power, Koraidon and Miraidon assume the Limited Build and Low-Power Mode, respectively, while at their full strength, they battle in Apex Build and Ultimate Mode, respectively.
+
+In Pokémon Scarlet and Violet, two specimens of KoraidonS/MiraidonV were brought into the present by Professor SadaS/Professor TuroV. The player meets one of them early in the journey, and it becomes their main form of transportation throughout Paldea. The other appears at the end of the main story and becomes catchable in the post-game.
+Okidogi, Munkidori, and Fezandipiti
+
+Okidogi, Munkidori, and Fezandipiti alongside their leader, Pecharunt
+Main article: Loyal Three
+The Loyal Three—Okidogi, Munkidori, and Fezandipiti—are a trio of Legendary Pokémon first discovered in Kitakami. They were first introduced in The Teal Mask DLC for Pokémon Scarlet and Violet.
+
+In Kitakami, they were believed to have protected Kitakami from Ogerpon, whose appearance frightened the villagers, causing them to be worshiped as heroes. In truth, the Loyal Three traveled to Kitakami after hearing of Ogerpon and its partner's masks, snuck into the cave Ogerpon settled in, and stole the Wellspring, Hearthflame, and Cornerstone Masks, leaving only the Teal Mask behind. Upon returning to its cave, an enraged Ogerpon donned the mask and went out to the village, cudgel in hand, to search for its friend. Upon meeting the Loyal Three, gloating over their stolen masks, Ogerpon attacked and defeated them, before leaving. The villagers, misunderstanding the situation, believed that the Loyal Three were protecting the village, creating a shrine and festival to celebrate their perceived heroism.
+
+In the story of The Teal Mask, the player encounters the trio after they are revived, following Kieran punching the shrine in a rage. Later on, the player, alongside Carmine, faces off against each member as Titan Pokémon. When they are defeated, each member drops a stolen mask, allowing Ogerpon to recover it. They can be caught after clearing The Teal Mask storyline.
+
+Ogerpon
+
+Teal Mask Ogerpon wielding its cudgel
+
+Ogerpon without any mask
+Ogerpon is a Legendary Pokémon first discovered in Kitakami. It was introduced in The Teal Mask DLC for Pokémon Scarlet and Violet.
+
+It has four forms: Teal Mask, Wellspring Mask, Hearthflame Mask, and Cornerstone Mask—each form possessing a unique Terastallized state.
+
+According to legend in The Teal Mask, it is said to have terrorized the land of Kitakami before being stopped by the Loyal Three: Okidogi, Munkidori and Fezandipiti. However, in reality, it defeated the trio for stealing three of its masks and hurting its human companion, but the villagers watching it assumed it had come to attack the village, seeing it as a terrible ogre. Only the mask maker who made Ogerpon's masks knew the true story, with this story being passed down to his descendants.
+
+In the story of The Teal Mask, the player and Carmine encounter Ogerpon during Kitakami's Festival of Masks. During the festival, the Loyal Three are revived and go to take revenge on Ogerpon with the three masks they still have. The Loyal Three are defeated and Ogerpon's remaining masks are retrieved. Kieran reveals the true history of Ogerpon to the villagers, causing the villagers to apologize for their mistakes and declaring Ogerpon as the true hero of Kitakami instead of the Loyal Three. The player can then capture Ogerpon at the Dreaded Den.
+
+Teal Mask Ogerpon (Terastallized state)
+Teal Mask Ogerpon (Terastallized state)
+
+Wellspring Mask Ogerpon
+Wellspring Mask Ogerpon
+
+Wellspring Mask Ogerpon (Terastallized state)
+Wellspring Mask Ogerpon (Terastallized state)
+
+Hearthflame Mask Ogerpon
+Hearthflame Mask Ogerpon
+
+Hearthflame Mask Ogerpon (Terastallized state)
+Hearthflame Mask Ogerpon (Terastallized state)
+
+Cournerstone Mask Ogerpon
+Cournerstone Mask Ogerpon
+
+Cournerstone Mask Ogerpon (Terastallized state)
+Cournerstone Mask Ogerpon (Terastallized state)
+
+
+Terapagos
+
+Normal Form Terapagos meeting Liko and Sprigatito
+
+Terastal Form Terapagos
+
+Stellar Form Terapagos
+Terapagos is a Legendary Pokémon first discovered in Paldea. It was introduced in The Indigo Disk DLC for Pokémon Scarlet and Violet.
+
+Terapagos has three forms: Normal Form, Terastal Form, and Stellar Form.
+
+It is the origin of the Terastal phenomenon and was seen as only fiction by many in the Scarlet BookS/Violet BookV, the only ones knowing about its existence being Heath and Professor SadaS/Professor TuroV. Around two million years ago, Terapagos lived on the surface of Paldea during ancient times, until seismic shifts caused it to fall underground. There, it remained asleep for many years as the Great Crater of Paldea formed, along with Area Zero and Area Zero Underdepths.
+
+In the lore of Pokémon Scarlet and Violet, 200 years ago, Terapagos was discovered and named by a man named Heath, a member of the Area Zero Expedition survey team, a group sponsored by one of the past directors of the Naranja AcademyS/Uva AcademyV. In same area as Terapagos, the team entered the Great Crater of Paldea and found the first ever Paradox Pokémon in Area Zero—a Great TuskS/Iron TreadsV that mortally wounded one of the team's members. They also encountered a Winged KingS/Iron SerpentV that became the cover of Heath's Scarlet BookS/Violet BookV. At some point, Heath ended up straying from the rest of the team and ended up in the Area Zero Underdepths, meeting Terapagos in its Stellar Form.
+
+In the story of The Indigo Disk, Briar wants to find Terapagos in Area Zero and prove that her ancestor, Heath, was not a liar. Briar leads the player and several other students on a mission to Area Zero. Descending together with the Indigo Disk, the group can access the Area Zero Underdepths, where they start to walk deeper and deeper into the caverns, eventually finding Terapagos in its slumbering state. Kieran, frustrated at his inability to overcome the player, frees Terapagos from its resting place, awakening it. As it attempts to walk towards the player, Kieran catches it in a Master Ball, then challenges the player to a battle. After losing the battle, Kieran Terastallizes Terapagos into its Stellar Form at the recommendation of Briar, but this causes Terapagos to lose control and destroy the Master Ball. The player, Carmine and Kieran, battle Terapagos, followed by the player catching it.
+Trivia
+Zacian and Zamazenta are the only Legendary Pokémon to have their base stats reduced between generations.
+There have been Legendary Pokémon of every type except Bug type (excluding Silvally holding a Bug Memory).
+Every Special and Mythical Pokémon in the Alola Pokédex is marked by a special golden background in its Pokédex page instead of a regular blue one; other Legendary Pokémon and Ultra Beasts are marked by a special green one.
+Heatran, Kubfu, Urshifu, and Terapagos are the only Legendary Pokémon that can be either gender.
+Heatran and Terapagos have an equal chance of being either gender, while Kubfu and Urshifu both have a 7:1 chance of being male.
+While Terapagos is coded to have an equal chance of being either gender, the Terapagos caught in The Indigo Disk will always be male.
+In an interview promoting the launch of Pokémon Black and White, Junichi Masuda stated that Legendary Pokémon are the most difficult to design names for because Game Freak strives to make sure that the names of Legendary Pokémon are universal across the different translations, so extra work must be put into their names to make sure that they work universally in all languages.[6] This is consistent with the relatively small number of Legendary Pokémon that have had their names changed significantly outside of Japan (currently 21: the legendary birds, the lake guardians, the Forces of Nature, Type: Null, Silvally, the guardian deities, Eternatus, Kubfu, Urshifu, Glastrier, Spectrier, Calyrex, and—in Chinese only—the Mew duo).
+Each member of the Legendary beasts and the Tao trio has its own remix of each trio's designated battle theme:
+In HeartGold and SoulSilver, Suicune's theme uses bells, Entei's theme uses an electric guitar, and Raikou's theme is synthesized.
+Reshiram's theme employs a burning fire effect, Zekrom's theme employs a crackling thunder effect, and normal Kyurem's theme features an extra slapped bass part playing in the background.
+The Generation I games and their later remakes are the only core series games where:
+The main plot does not involve any Legendary Pokémon.
+Prior to Generation VI, the core series games which serve as region debuts did not have any Legendary Pokémon from previous generations available without trades, transfers, or events.
+From Generation III onwards, all upper versions, sequels, and remakes in the core series have Legendary Pokémon from multiple generations available without trades, transfers, or events.
+The legendary birds are the Legendary Pokémon that have been available in the wild in the greatest number of core series games, each being able to be caught in twenty core series games (Pokémon Red, Green, Blue, Yellow, FireRed, LeafGreen, Platinum, HeartGold, SoulSilver, X, Y, Ultra Sun, Ultra Moon, Let's Go, Pikachu!, Let's Go, Eevee!, Sword, Shield, Shining Pearl, Scarlet, and Violet).
+Every Legendary Pokémon has slow leveling rate.
+In Pokémon Mystery Dungeon: Explorers of Time, Darkness, and Sky, the Adventure Log lists recruiting Unown as an accomplishment. The Adventure Log otherwise only lists Mythical and Legendary Pokémon recruits, with the exception of Rotom.
+Rotom happens to be the only non-Legendary Pokémon to have the battle music of a Legendary Pokémon during at least one of its encounters, this encounter being in the Old Chateau in Pokémon Diamond, Pearl, Platinum, Brilliant Diamond, and Shining Pearl.
+In Pokémon Mystery Dungeon: Explorers of Time, Darkness, and Sky, Rotom has only one exclusive item that is found behind a locked door in a specific dungeon. It and Spiritomb are the only Pokémon that are neither Legendary nor Mythical that do this.
+So far, there is at least one Legendary Pokémon directly or indirectly related to each "battle gimmick" introduced in their respective regions:
+The Aura trio (specifically Xerneas and Yveltal) are theorized to be indirectly responsible for creating Mega Evolution in the Kalos region, while Rayquaza is believed to be responsible for Mega Evolution occurring in the Hoenn region.
+The Light trio and Guardian deities are directly related to Z-Moves.
+Eternatus is directly responsible for Dynamax and Gigantamax.
+Terapagos is directly responsible for the Terastal phenomenon.
+In other languages
+Language	Title
+Japan Flag.png Japanese	伝説のポケモン Legendary Pokémon
+Chinese	Cantonese	傳說的寶可夢 Chyùhnsyut-dīk Pokémon *
+傳說中的寶可夢 Chyùhnsyut-jūng dīk Pokémon *
+傳說寶可夢 Chyùhnsyut Pokémon *
+傳說中的小精靈 Chyùhnsyut-jūng dīk Síujīnglìhng *
+傳說中的寵物小精靈 Chyùhnsyut-jūng dīk Chúngmaht-Síujīnglìhng *
+傳說小精靈 Chyùhnsyut Síujīnglìhng *
+傳說的小精靈 Chyùhnsyut dīk Síujīnglìhng *
+傳說的寵物小精靈 Chyùhnsyut-dīk Chúngmaht-Síujīnglìhng *
+傳說寵物精靈 Chyùhnsyut Chúngmaht-Jīnglìhng *
+Mandarin	傳說的寶可夢 / 传说的宝可梦 Chuánshuō-de Pokémon *
+傳說中的寶可夢 Chuánshuō-zhōng de Pokémon *
+传说中的精灵宝可梦 Chuánshuō-zhōng de Jīnglíng Pokémon *
+傳說中的神奇寶貝 Chuánshuō-zhōng de Shénqíbǎobèi *
+傳說的神奇寶貝 Chuánshuō-de Shénqíbǎobèi *
+傳說神奇寶貝 Chuánshuō Shénqíbǎobèi *
+傳說中神奇寶貝 Chuánshuō-zhōng Shénqíbǎobèi *
+令人遐想的小精灵 Lìngrén Xiáxiǎng-de Xiǎojīnglíng *
+The Czech Republic Flag.png Czech	Legendární Pokémon
+Denmark Flag.png Danish	Legendarisk Pokémon
+The Netherlands Flag.png Dutch	Legendarische Pokémon
+Finland Flag.png Finnish	Legendaarinen Pokémon
+Tarupokémon*
+France Flag.png French	Pokémon légendaire
+Germany Flag.png German	Legendäre Pokémon
+Greece Flag.png Greek	Θρυλικό Pokémon Thrilikó Pokémon
+Israel Flag.png Hebrew	האגדיים hagdiim
+India Flag.png Hindi	लीजेंडरी पोकेमोन Legendary Pokémon *
+प्रसिद्ध पोकेमोन Prasidh Pokémon *
+मशहूर पोकेमोन Mashoor Pokémon *
+लीजेंडरी पोकेमोन Legendary Pokémon *
+Hungary Flag.png Hungarian	Legendás Pokémon
+Iceland Flag.png Icelandic	Þjóðsagnakenndum Pokémon
+Indonesia Flag.png Indonesian	Pokémon legendaris
+Italy Flag.png Italian	Pokémon leggendari
+South Korea Flag.png Korean	전설의 포켓몬 Jeonseol-ui Pokémon
+Malaysia Flag.png Malaysian	Pokémon legenda
+Norway Flag.png Norwegian	Legendarisk Pokémon
+Poland Flag.png Polish	Legendarny Pokémon
+Portugal Flag.png Portuguese	Pokémon Lendário
+Romania Flag.png Romanian	Pokémon legendar
+Russia Flag.png Russian	Легендарный Покемон Legendarnyy Pokémon
+Spain Flag.png Spanish	Pokémon legendario
+Sweden Flag.png Swedish	Legendarisk Pokémon
+Thailand Flag.png Thai	โปเกมอนในตำนาน Pokémon naitamnan
+Turkey Flag.png Turkish	Efsanevi Pokémon
+Vietnam Flag.png Vietnamese	Pokémon huyền thoại
+References
+ https://twitter.com/El_Aleph87/status/1304929135966539777
+ Lusamine: "The daughter who stole my Cosmog from me and the son who took my Type: Null!"(Pokémon Sun and Moon)
+ Faba's blog from Pokémon Sun and Moon: "My superior's family stole the results of our research and ran off."
+ Lusamine, Pokémon Sun and Moon:"I was able to open the Ultra Wormhole using just the gases we'd extracted from Cosmog when it was in Aether Paradise, wasn't I?"
+ Dulse, Pokémon Ultra Sun and Ultra Moon: "These...auras...must have been particularly strong at the trial locations. And the Z-Power for the Z-Moves... It is also similar to the auras of the Totem Pokémon. Both came to Alola as Necrozma's light!"
+ 女子大生が訊く『ポケットモンスターブラック・ホワイト』 (archive)
+See also
+Mythical Pokémon
+Event Pokémon
+Special Pokémon
+Pseudo-legendary Pokémon
+Ultra Beast
+Paradox Pokémon
+Myths and legends involving Legendary and Mythical Pokémon
+Terminology of Legendary and Mythical Pokémon
+Sinnoh myths
+History of the Pokémon world
+Episodes in which a Legendary Pokémon appears
+Trainers with Legendary Pokémon
+Groups of Legendary and Mythical Pokémon
+Legendary Pokémon
+ArticunoZapdosMoltresMewtwo
+Generation I
+RaikouEnteiSuicuneLugiaHo-Oh
+Generation II
+RegirockRegiceRegisteelLatiasLatiosKyogreGroudonRayquaza
+Generation III
+UxieMespritAzelfDialgaPalkiaHeatranRegigigasGiratinaCresselia
+Generation IV
+CobalionTerrakionVirizionTornadusThundurusReshiramZekromLandorusKyurem
+Generation V
+XerneasYveltalZygarde
+Generation VI
+Type: NullSilvallyTapu KokoTapu LeleTapu BuluTapu FiniCosmogCosmoemSolgaleoLunalaNecrozma
+Generation VII
+ArticunoZapdosMoltresZacianZamazentaEternatusKubfuUrshifuRegielekiRegidragoGlastrierSpectrierCalyrexEnamorus
+Generation VIII
+Wo-ChienChien-PaoTing-LuChi-YuKoraidonMiraidonOkidogiMunkidoriFezandipitiOgerponTerapagos
+Generation IX
+See also: Mythical Pokémon
+Groups of Legendary and Mythical Pokémon
+Duos
+MewtwoMew
+Mew duo
+LugiaHo-Oh
+Tower duo
+LatiasLatios
+Eon duo
+CresseliaDarkrai
+Lunar duo
+PhioneManaphy
+Sea guardians
+ZacianZamazenta
+Legendary heroes
+KoraidonMiraidon
+Paradox duo
+Trios
+ArticunoZapdosMoltres
+Legendary birds
+RaikouEnteiSuicune
+Legendary beasts
+KyogreGroudonRayquaza
+Super-ancient Pokémon
+UxieMespritAzelf
+Lake guardians
+DialgaPalkiaGiratina
+Pokémon of Myth
+ReshiramZekromKyurem
+Tao trio
+XerneasYveltalZygarde
+Aura trio
+SolgaleoLunalaNecrozma
+Light trio
+OkidogiMunkidoriFezandipiti
+Loyal Three
+Quartets
+CobalionTerrakionVirizionKeldeo
+Swords of Justice
+TornadusThundurusLandorusEnamorus
+Forces of Nature
+Tapu KokoTapu LeleTapu BuluTapu Fini
+Guardian deities
+Wo-ChienChien-PaoTing-LuChi-Yu
+Treasures of ruin
+Quintets
+RegirockRegiceRegisteelRegielekiRegidrago
+Legendary giants
+Categories: Featured articlesArticles needing sourcesLists of PokémonPokémon worldTerminologyLegendary PokémonPokémon groupings
+https://creativecommons.org/licenses/by-nc-sa/2.5/Powered by MediaWiki
+This page was last edited on 9 June 2024, at 22:05.Content is available under Attribution-NonCommercial-ShareAlike 2.5. (see Copyrights for details) Privacy policyAbout BulbapediaDisclaimersMobile view
+A RAPTIVE PARTNER SITE
+
+
+

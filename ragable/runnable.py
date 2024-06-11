@@ -6,7 +6,12 @@ class Runnable:
     Name: str
     Func: Callable
     Params: Dict = field(default_factory=dict)
-    AskLLM: Optional[bool] = False
+    AskLLM: Optional[bool] = True
+
+def runnable_from_func(**kwargs):
+    def wrapper(func):
+        return Runnable(Func=func, **kwargs)
+    return wrapper
 
 class IntentDeterminer():
     def get_intent_prompt(self, func_descritions, intents):
@@ -35,7 +40,7 @@ class IntentDeterminer():
             ("user", question),
         ])
 
-        intent = response.content.replace("-", "").strip()
+        intent = response.replace("-", "").strip()
         if intent in intentMappings.keys():
             return intentMappings[intent]
 

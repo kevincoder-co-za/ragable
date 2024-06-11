@@ -68,7 +68,9 @@ class StandardEmbedder:
             self.logger.warning(f"Failed to parse: {doc_path}. Error: ", ex)
 
         if text_blob != "":
-            for chunk in self.chunk_text(text_blob):
+            for (i, chunk) in enumerate(self.chunk_text(text_blob)):
+                hashed = f"{doc_path}_doc_{i}".encode('utf-8')
+                doc_id = hashlib.md5(hashed).hexdigest()
                 self.store.add_document(text=chunk, idx=doc_id)
         else:
             self.logger.warning("All documents failed. Embedding data is empty.")
@@ -77,10 +79,10 @@ class StandardEmbedder:
         if doc_id is None:
             raise("The vector store needs a doc_id to identify this content. Please pass in 'doc_id', which can be an integer or uuid.")
 
-        for chunk in  self.chunk_text(text):
+        for chunk in self.chunk_text(text):
             self.store.add_document(text=chunk, idx=doc_id)
 
-    def chunk_text(text, buffer_length=1500):
+    def chunk_text(self, text, buffer_length=1500):
         parts = text.split("\n")
         buffer = ""
         has_flushed = False

@@ -15,39 +15,34 @@ from ragable.adapters.qdrant import QdrantAdapter
 from ragable.embedders import StandardEmbedder
 import os
 
-# Sets up a Qdrant connection and creates a collection named "documents"
-rag_store = QdrantAdapter("documents")
+# See examples.py for more details
+    agent = get_openai_agent()
+    qdrant = QdrantAdapter("ragable_documents")
+    embedder = StandardEmbedder(qdrant)
+    embedder.train_from_document("./testdata/bulbasaur.txt")
 
-# Convert local documents into vector embeddings and stores them in Qdrant.
-doc_embedder = StandardEmbedder(rag_store)
-doc_embedder.train_from_document("./Golang.docx")
+    bulbasaur_knowledge = Runnable(
+        Name="Information about bulbasaur",
+        Instruction="When the human asks about bulbasaur",
+        Func=qdrant
+    )
 
-agent = get_openai_agent(verbose=True)
+    agent.add_tasks([
+        legendary_pokemon,
+        php_strings,
+        bulbasaur_knowledge
+    ])
 
- tasks = [
-     Runnable(
-         Name="Drinks menu",
-         Instruction="When the user asks about our drinks menu",
-         Func=lambda params: "We serve a wide variety of soft drinks including: Coke, Coke Zero, Fanta,Appletizer",
-         Params={},
-        AskLLM=True
-     ),
-     Runnable(
-         Name="Golange related",
-        Instruction="When the user asks about information relating to golang.",
-        Params={},
-        Func=rag_store
-     )
-]
+    questions = [
+        "What is a legendary pokemon?",
+        "How to perform a string replace in PHP?",
+        "How to find a string in another string in PHP?",
+        "Which Pokemon are the evolved forms of bulbasaur?"
+    ]
 
-agent.add_tasks(tasks)
-
-# Add any number of messages as you like.
-# Use this to also add message history for memory purposes.
-agent.add_message("You are an helpful assistant", "system")
-
-question = "Suggest a drink for a diabetic?"
-response = agent.invoke(question)
+    for q in questions:
+        response = agent.invoke(q)
+        print(response)
 ```
 ## How to install?
 
@@ -60,8 +55,6 @@ Thereafter, you can then import any of the Ragable classes into your Python proj
 **Note:** If you plan on using a vector store with Ragable, we currently support Qdrant. You can use their docker image to setup Qdrant as follows:
 ```python
 docker run -dit --name raggable-qdrant -p 6333:6333 -p 6334:6334 \
-
 -v $(pwd)/qdrant_storage:/qdrant/storage:z \
-
-qdrant/qdrant --header 'api-key: 12323434353'
+qdrant/qdrant
 ```
