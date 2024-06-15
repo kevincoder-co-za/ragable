@@ -1,6 +1,8 @@
 # Welcome to Ragable!
 Ragable is an AI library that helps you build multi-turn Chatbots with ease, the library provides several easy to use classes to help you build "agent style" workflows. The Agent will first analyze the users input and then determine what function to invoke (known as Runnable's).
 
+Note: Ragable is still in a stable BETA phase.
+
 Each **Runnable** takes the following arguments:
  - **Name**: a unique identifier that describes this runnable.
  - **Instruction**: Instruct the LLM on when it should invoke this runnable.
