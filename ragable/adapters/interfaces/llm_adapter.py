@@ -1,6 +1,7 @@
 from typing import Protocol
 from abc import abstractmethod
 
+
 class LLMAdapter(Protocol):
     @abstractmethod
     def __init__(self, model, embedding_model, temperature):

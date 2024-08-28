@@ -2,8 +2,14 @@ from openai import OpenAI
 from ragable.adapters.interfaces.llm_adapter import LLMAdapter
 import time
 
+
 class OpenAIAdapter(LLMAdapter):
-    def __init__(self, model = "gpt-3.5-turbo", embedding_model="text-embedding-3-small", temperature=0):
+    def __init__(
+        self,
+        model="gpt-3.5-turbo",
+        embedding_model="text-embedding-3-small",
+        temperature=0,
+    ):
         self.client = OpenAI()
         self.model = model
         self.embedding_model = embedding_model
@@ -21,8 +27,7 @@ class OpenAIAdapter(LLMAdapter):
         while retries <= 3:
             try:
                 response = self.client.embeddings.create(
-                    input=sentence,
-                    model=self.embedding_model
+                    input=sentence, model=self.embedding_model
                 )
 
                 return response.data[0].embedding
@@ -45,9 +50,7 @@ class OpenAIAdapter(LLMAdapter):
         if parse_agent_messages:
             messages = self.parse_agent_messages(messages)
         completion = self.client.chat.completions.create(
-            model=self.model,
-            temperature=self.temperature,
-            messages=messages
+            model=self.model, temperature=self.temperature, messages=messages
         )
 
         self.last_response = completion

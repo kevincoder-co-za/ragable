@@ -19,9 +19,10 @@ AskLLM: True by default. Will send the function's output to the LLM for further 
 Params: Any data you want to make available to your function, it's not sent to the LLM and should
         be used internally within the function, for example you can pass a user_id or session information.
 """
+
+
 @runnable_from_func(
-    Name="All about php strings",
-    Instruction="When the human asks about php"
+    Name="All about php strings", Instruction="When the human asks about php"
 )
 def php_strings(params):
     response = """
@@ -30,9 +31,10 @@ def php_strings(params):
     """
     return response
 
+
 @runnable_from_func(
     Name="All about legendary pokemon",
-    Instruction="When the human asks about legendary pokemon"
+    Instruction="When the human asks about legendary pokemon",
 )
 def legendary_pokemon(params):
     context_data = ""
@@ -70,21 +72,17 @@ if __name__ == "__main__":
     bulbasaur_knowledge = Runnable(
         Name="Information about bulbasaur",
         Instruction="When the human asks about bulbasaur",
-        Func=qdrant
+        Func=qdrant,
     )
 
     # Tell the agent which Runnable functions it's allowed to execute.
-    agent.add_tasks([
-        legendary_pokemon,
-        php_strings,
-        bulbasaur_knowledge
-    ])
+    agent.add_tasks([legendary_pokemon, php_strings, bulbasaur_knowledge])
 
     questions = [
         "What is a legendary pokemon?",
         "How to perform a string replace in PHP?",
         "How to find a string in another string in PHP?",
-        "Which Pokemon are the evolved forms of bulbasaur?"
+        "Which Pokemon are the evolved forms of bulbasaur?",
     ]
 
     # Here you can feed the Agent any additional prompts as needed.

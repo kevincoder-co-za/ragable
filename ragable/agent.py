@@ -3,6 +3,7 @@ from ragable.adapters.openai import OpenAIAdapter
 from typing import List
 import logging
 
+
 class Agent:
     def __init__(self, model, verbose=False):
         self.model = model
@@ -22,21 +23,21 @@ class Agent:
             If the answer is not in the context data, respond with "I don't know":
             <context>{context}</context>"""
 
-    def add_message(self, message :str, type: str):
+    def add_message(self, message: str, type: str):
         self.messages.append((type, message))
 
-    def add_tasks(self, tasks : List[Runnable]):
+    def add_tasks(self, tasks: List[Runnable]):
         self.tasks += tasks
 
     def parse_messages(self, question, inputs):
-        for (index, message) in enumerate(self.messages):
+        for index, message in enumerate(self.messages):
             for k, v in inputs.items():
                 message = message.replace("{" + k + "}", v)
                 if self.verbose:
                     self.logger.info(f"Compiled message: {message}")
             self.messages[index] = message
 
-        for k,v in inputs.items():
+        for k, v in inputs.items():
             question = question.replace(k, v)
 
         self.question = question
@@ -54,7 +55,10 @@ class Agent:
         if intent_result and runnable.AskLLM:
             messages = [
                 ("user", question),
-                ("system", self.context_prompt_template.replace("{context}", intent_result))
+                (
+                    "system",
+                    self.context_prompt_template.replace("{context}", intent_result),
+                ),
             ]
 
             llm_response = self.model.invoke(messages)
@@ -63,7 +67,7 @@ class Agent:
 
         return intent_result
 
-    def invoke(self, question, inputs :dict = {}, ask_model=True):
+    def invoke(self, question, inputs: dict = {}, ask_model=True):
         self.parse_messages(question, inputs)
         intent_result = ""
         if len(self.tasks):
@@ -71,7 +75,9 @@ class Agent:
             if self.verbose:
                 self.logger.info(f"Model has selected to execute: {runnable.Name}")
             if runnable:
-                intent_result = self.run_runnable_task(intent_result, runnable, question)
+                intent_result = self.run_runnable_task(
+                    intent_result, runnable, question
+                )
 
         if self.verbose:
             self.logger.info(f"Final result after all runnables: {intent_result}")
@@ -84,13 +90,21 @@ class Agent:
         messages = self.messages
         messages.append(("user", question))
         if self.verbose:
-            self.logger.info(f"Will prompt model with the following messages:\n{messages}")
+            self.logger.info(
+                f"Will prompt model with the following messages:\n{messages}"
+            )
 
         if intent_response != "":
-            messages.append(("system", self.context_prompt_template.replace("{context}", intent_response)))
+            messages.append(
+                (
+                    "system",
+                    self.context_prompt_template.replace("{context}", intent_response),
+                )
+            )
 
         return self.model.invoke(messages)
 
+
 def get_openai_agent(model_name="gpt-3.5-turbo-0125", temperature=0, verbose=False):
-     chatbot = OpenAIAdapter()
-     return Agent(chatbot, verbose)
+    chatbot = OpenAIAdapter()
+    return Agent(chatbot, verbose)

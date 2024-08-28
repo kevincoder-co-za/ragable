@@ -1,5 +1,7 @@
-from typing import Dict,Optional, Callable
+from typing import Dict, Optional, Callable
 from dataclasses import dataclass, field
+
+
 @dataclass
 class Runnable:
     Instruction: str
@@ -8,12 +10,15 @@ class Runnable:
     Params: Dict = field(default_factory=dict)
     AskLLM: Optional[bool] = True
 
+
 def runnable_from_func(**kwargs):
     def wrapper(func):
         return Runnable(Func=func, **kwargs)
+
     return wrapper
 
-class IntentDeterminer():
+
+class IntentDeterminer:
     def get_intent_prompt(self, func_descritions, intents):
         return f"""
         Given the following intents, use their descriptions to determine which intent best matches the given user's message.
@@ -24,7 +29,7 @@ class IntentDeterminer():
         {intents}
         """
 
-    def get_intent(self, model, question, runnables : Runnable):
+    def get_intent(self, model, question, runnables: Runnable):
         func_descritions = ""
         intents = ""
         intentMappings = {}
@@ -35,10 +40,12 @@ class IntentDeterminer():
             intentMappings[runnable.Name] = runnable
 
         prompt = self.get_intent_prompt(func_descritions, intents)
-        response = model.invoke([
-            ("system", prompt),
-            ("user", question),
-        ])
+        response = model.invoke(
+            [
+                ("system", prompt),
+                ("user", question),
+            ]
+        )
 
         intent = response.replace("-", "").strip()
         if intent in intentMappings.keys():

@@ -1,9 +1,10 @@
 from typing import Protocol
 from abc import abstractmethod
 
+
 class VectorStoreAdapter(Protocol):
     @abstractmethod
-    def  __init__(self, namespace, dsn=None, embedder=None):
+    def __init__(self, namespace, dsn=None, embedder=None):
         raise NotImplementedError
 
     @abstractmethod
@@ -15,5 +16,5 @@ class VectorStoreAdapter(Protocol):
         raise NotImplementedError
 
     @abstractmethod
-    def get_context_data(self, text, limit=10, filters=None) ->str:
+    def get_context_data(self, text, limit=10, filters=None) -> str:
         raise NotImplementedError
