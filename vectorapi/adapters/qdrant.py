@@ -1,58 +1,55 @@
-from qdrant_client import QdrantClient
-from qdrant_client.models import Distance, VectorParams, PointStruct
-from ragable.adapters.openai import OpenAIAdapter
-from ragable.adapters.interfaces.vector_store_adapter import VectorStoreAdapter
-from uuid import uuid4
 import logging
+from uuid import uuid4
+
+from django.conf import settings
+from qdrant_client import QdrantClient
+from qdrant_client.models import Distance, PointStruct, VectorParams
+
+logger = logging.getLogger(settings.PRIMARY_APPLICATION_LOGGER)
 
 
-class QdrantAdapter(VectorStoreAdapter):
-    def __init__(
-        self, namespace, dsn=None, embedder=None, api_key=None, loglevel=logging.ERROR
-    ):
+class QdrantAdapter:
+    def __init__(self, namespace, llm=None):
         self.namespace = namespace
-        self.embedder = embedder if embedder is not None else OpenAIAdapter()
-        self.dsn = dsn if dsn is not None else "http://127.0.0.1:6333"
-
-        logging.basicConfig(level=loglevel, handlers=[logging.StreamHandler()])
-        self.logger = logging.getLogger(__name__)
-        self.store = QdrantClient(self.dsn, api_key=api_key)
+        self.llm = llm
+        self.store = QdrantClient(settings.QDRANT_DSN, api_key=settings.QDRANT_API_KEY)
 
         if self.store.collection_exists(self.namespace) == False:
             self.store.create_collection(
                 collection_name=self.namespace,
                 vectors_config=VectorParams(
-                    size=self.embedder.get_embedding_dimensions(),
+                    size=self.llm.get_embedding_dimensions(),
                     distance=Distance.COSINE,
                 ),
             )
 
     def add_document(self, text, idx=None, metadata=None):
         try:
-            vector = self.embedder.get_embeddings(text)
+            vector = self.llm.get_embeddings(text)
             if metadata is None:
                 metadata = {}
 
             metadata["raw_text"] = text
+
             self.store.upload_points(
                 collection_name=self.namespace,
                 points=[
                     PointStruct(
                         id=str(uuid4()) if idx is None else idx,
                         vector=vector,
-                        payload=metadata if metadata is not None else {},
+                        payload=metadata,
                     )
                 ],
             )
         except Exception as ex:
-            self.logger.error(
+            logger.error(
                 "[Qdrant Adapter] Failed to store text embedding with error:", ex
             )
 
     def find_documents(self, text, limit=20):
         results = []
         try:
-            vector = self.embedder.get_embeddings(text)
+            vector = self.llm.get_embeddings(text)
             kwargs = {
                 "collection_name": self.namespace,
                 "query_vector": vector,
@@ -62,7 +59,7 @@ class QdrantAdapter(VectorStoreAdapter):
             found = self.store.search(**kwargs)
             results += found
         except Exception as ex:
-            self.logger.error(
+            logger.error(
                 "[Qdrant Adapter] Failed to search for documents with error:", ex
             )
 
