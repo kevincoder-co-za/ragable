@@ -1,7 +1,8 @@
-from ragable.adapters.qdrant import QdrantAdapter
-from ragable.embedders import StandardEmbedder
 import argparse
 import glob
+
+from ragable.adapters.qdrant import QdrantAdapter
+from ragable.embedders import StandardEmbedder
 
 
 def vectorize_and_store_documents(folder_path, embedder):

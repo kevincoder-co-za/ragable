@@ -1,5 +1,5 @@
-from typing import Protocol
 from abc import abstractmethod
+from typing import Protocol
 
 
 class VectorStoreAdapter(Protocol):

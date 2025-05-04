@@ -1,7 +1,8 @@
-from ragable.runnable import Runnable, IntentDeterminer
-from ragable.adapters.openai import OpenAIAdapter
-from typing import List
 import logging
+from typing import List
+
+from ragable.adapters.openai import OpenAIAdapter
+from ragable.runnable import IntentDeterminer, Runnable
 
 
 class Agent:

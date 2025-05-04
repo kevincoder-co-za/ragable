@@ -1,5 +1,5 @@
-from typing import Dict, Optional, Callable
 from dataclasses import dataclass, field
+from typing import Callable, Dict, Optional
 
 
 @dataclass

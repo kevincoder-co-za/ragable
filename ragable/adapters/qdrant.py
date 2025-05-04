@@ -1,9 +1,11 @@
-from qdrant_client import QdrantClient
-from qdrant_client.models import Distance, VectorParams, PointStruct
-from ragable.adapters.openai import OpenAIAdapter
-from ragable.adapters.interfaces.vector_store_adapter import VectorStoreAdapter
-from uuid import uuid4
 import logging
+from uuid import uuid4
+
+from qdrant_client import QdrantClient
+from qdrant_client.models import Distance, PointStruct, VectorParams
+
+from ragable.adapters.interfaces.vector_store_adapter import VectorStoreAdapter
+from ragable.adapters.openai import OpenAIAdapter
 
 
 class QdrantAdapter(VectorStoreAdapter):

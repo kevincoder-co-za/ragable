@@ -1,13 +1,14 @@
-from PyPDF2 import PdfReader
-from docx import Document
-from pptx import Presentation
-from odf.opendocument import load as load_od_docs
-from odf.text import P as odf_paragraph
-from odf import teletype
-from odf.draw import Frame
+import hashlib
 import logging
 import os
-import hashlib
+
+from docx import Document
+from odf import teletype
+from odf.draw import Frame
+from odf.opendocument import load as load_od_docs
+from odf.text import P as odf_paragraph
+from pptx import Presentation
+from PyPDF2 import PdfReader
 
 
 class StandardEmbedder:

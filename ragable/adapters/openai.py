@@ -1,6 +1,8 @@
-from openai import OpenAI
-from ragable.adapters.interfaces.llm_adapter import LLMAdapter
 import time
+
+from openai import OpenAI
+
+from ragable.adapters.interfaces.llm_adapter import LLMAdapter
 
 
 class OpenAIAdapter(LLMAdapter):
